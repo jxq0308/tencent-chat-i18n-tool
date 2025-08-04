@@ -14,7 +14,7 @@ dependencies:
   flutter:
     sdk: flutter
   fast_i18n: any
-  path: anyß
+  path: any
   yaml: any
 
 dev_dependencies:
