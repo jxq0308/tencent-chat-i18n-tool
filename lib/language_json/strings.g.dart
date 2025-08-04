@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 6
- * Strings: 4385 (730.8 per locale)
+ * Strings: 4422 (737.0 per locale)
  *
- * Built on 2025-08-04 at 09:39 UTC
+ * Built on 2025-08-04 at 14:17 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1102,53 +1102,41 @@ class _StringsId implements _StringsEn {
 	@override String get k_13sqwu4 => 'Pesan suara';
 	@override String get k_13sqjjp => 'Pesan video';
 	@override String get k_1fdhj9g => 'Versi ini tidak mendukung pesan ini';
-	@override String get k_06pujtm => 'Setuju semua pengguna menambahkan teman';
+	@override String get k_06pujtm => 'Izinkan siapa pun menambahkan teman';
 	@override String get k_0gyhkp5 => 'Perlu verifikasi';
 	@override String get k_121ruco => 'Tolak semua permintaan pertemanan';
 	@override String get k_05nspni => 'Bidang kustom';
 	@override String get k_03fchyy => 'Foto grup';
-	@override String get k_03i9mfe => 'Profil grup';
+	@override String get k_03i9mfe => 'Deskripsi grup';
 	@override String get k_03agq58 => 'Nama grup';
 	@override String get k_039xqny => 'Notifikasi grup';
 	@override String get k_003tr0a => 'Pemilik grup';
-	@override String k_03iqsh4({required Object s}) => '$s adalah ';
-	@override String k_191t5n4({required Object opUserNickName}) => '$opUserNickName mengubah';
-	@override String k_1pg6aoj({required Object opUserNickName}) => '$opUserNickName keluar dari grup';
-	@override String k_1f6zt3v({required Object invitedMemberString}) => 'Mengundang $invitedMemberString bergabung ke grup';
-	@override String k_0y7zd07({required Object invitedMemberString}) => 'Mengeluarkan $invitedMemberString dari grup';
-	@override String get k_03c49qt => 'Otorisasi';
-	@override String k_1d5mshh({required Object joinedMemberString}) => 'Pengguna $joinedMemberString bergabung ke grup';
+	@override String get k_03c49qt => 'Pergi ke otorisasi';
 	@override String get k_002wddw => 'Bisukan';
 	@override String get k_0got6f7 => 'Batalkan pembisuan';
-	@override String k_0yenqf0({required Object userName}) => '$userName telah';
-	@override String k_0spotql({required Object adminMember}) => 'Menjadikan $adminMember sebagai admin';
-	@override String k_0pg5zzj({required Object operationType}) => 'Pesan sistem $operationType';
-	@override String k_0ohzb9l({required Object callTime}) => 'Durasi panggilan: $callTime';
 	@override String get k_1uaqed6 => '[Kustom]';
 	@override String get k_0z2z7rx => '[Suara]';
 	@override String get k_0y39ngu => '[Emoji]';
-	@override String k_1c7z88n({required Object fileName}) => '[File] $fileName';
 	@override String get k_0y1a2my => '[Gambar]';
 	@override String get k_0z4fib8 => '[Video]';
 	@override String get k_0y24mcg => '[Lokasi]';
-	@override String get k_0pewpd1 => '[Riwayat chat]';
+	@override String get k_0pewpd1 => '[Riwayat obrolan]';
 	@override String get k_13s8d9p => 'Pesan tidak dikenal';
-	@override String get k_1c3us5n => 'Grup ini tidak mendukung @all';
-	@override String get k_11k579v => 'Pesan mengandung konten terlarang';
+	@override String get k_1c3us5n => 'Grup saat ini tidak mendukung penyebutan @semua';
+	@override String get k_11k579v => 'Pesan berisi konten terlarang';
 	@override String get k_003qkx2 => 'Kalender';
 	@override String get k_003n2pz => 'Kamera';
 	@override String get k_03idjo0 => 'Kontak';
 	@override String get k_003ltgm => 'Lokasi';
 	@override String get k_02k3k86 => 'Mikrofon';
-	@override String get k_003pm7l => 'Album';
-	@override String get k_15ao57x => 'Izin tulis album';
+	@override String get k_003pm7l => 'Album foto';
+	@override String get k_15ao57x => 'Izin menulis album';
 	@override String get k_164m3jd => 'Penyimpanan lokal';
-	@override String k_0qba4ns({required Object yoursItem}) => 'Ingin mengakses $yoursItem Anda';
-	@override String get k_03r6qyx => 'Kami memerlukan persetujuan Anda untuk mendapatkan informasi';
+	@override String get k_03r6qyx => 'Kami membutuhkan persetujuan Anda untuk mengakses informasi';
 	@override String get k_02noktt => 'Tolak';
-	@override String get k_00043x4 => 'Oke';
+	@override String get k_00043x4 => 'OK';
 	@override String get k_003qzac => 'Kemarin';
-	@override String get k_003r39d => 'Kemarin lusa';
+	@override String get k_003r39d => 'Dua hari lalu';
 	@override String get k_03fqp9o => 'Minggu';
 	@override String get k_03ibg5h => 'Senin';
 	@override String get k_03i7hu1 => 'Selasa';
@@ -1156,48 +1144,42 @@ class _StringsId implements _StringsEn {
 	@override String get k_03el9pa => 'Kamis';
 	@override String get k_03i7ok1 => 'Jumat';
 	@override String get k_03efxyg => 'Sabtu';
-	@override String k_0oozw9x({required Object diffMinutes}) => '$diffMinutes menit lalu';
-	@override String get k_003q7ba => 'Siang';
-	@override String get k_003q7bb => 'Pagi';
+	@override String get k_003q7ba => 'PM';
+	@override String get k_003q7bb => 'AM';
 	@override String get k_003pu3h => 'Sekarang';
-	@override String k_13hzn00({required Object yesterday}) => 'Kemarin $yesterday';
 	@override String get k_0n9pyxz => 'Pengguna tidak ada';
 	@override String get k_1bjwemh => 'Cari ID pengguna';
 	@override String get k_003kv3v => 'Cari';
-	@override String k_02owlq8({required Object userID}) => 'ID saya: $userID';
-	@override String k_1wu8h4x({required Object showName}) => 'Saya: $showName';
 	@override String get k_16758qw => 'Tambahkan teman';
-	@override String k_1shx4d9({required Object selfSignature}) => 'Status: $selfSignature';
-	@override String get k_0i553x0 => 'Isi pesan verifikasi';
-	@override String get k_031ocwx => 'Silakan isi catatan dan grup';
+	@override String get k_0i553x0 => 'Masukkan pesan verifikasi';
+	@override String get k_031ocwx => 'Silakan masukkan catatan dan grup';
 	@override String get k_003ojje => 'Catatan';
 	@override String get k_003lsav => 'Grup';
 	@override String get k_167bdvq => 'Teman saya';
-	@override String get k_156b4ut => 'Permintaan pertemanan telah dikirim';
+	@override String get k_156b4ut => 'Permintaan pertemanan terkirim';
 	@override String get k_002r305 => 'Kirim';
 	@override String get k_03gu05e => 'Ruang obrolan';
 	@override String get k_03b4f3p => 'Grup rapat';
 	@override String get k_03avj1p => 'Grup publik';
 	@override String get k_03asq2g => 'Grup kerja';
 	@override String get k_03b3hbi => 'Grup tidak dikenal';
-	@override String k_1loix7s({required Object groupType}) => 'Tipe grup: $groupType';
+	@override String k_1loix7s({required Object groupType}) => 'Jenis grup: $groupType';
 	@override String get k_1lqbsib => 'Grup ini tidak ada';
 	@override String get k_03h153m => 'Cari ID grup';
-	@override String get k_0oxak3r => 'Permintaan bergabung grup telah dikirim';
+	@override String get k_0oxak3r => 'Aplikasi grup terkirim';
 	@override String get k_002rflt => 'Hapus';
 	@override String get k_1don84v => 'Tidak dapat menemukan pesan asli';
 	@override String get k_003q5fi => 'Salin';
 	@override String get k_003prq0 => 'Teruskan';
-	@override String get k_002r1h2 => 'Pilih banyak';
+	@override String get k_002r1h2 => 'Pilihan ganda';
 	@override String get k_003j708 => 'Kutip';
 	@override String get k_003pqpr => 'Tarik kembali';
 	@override String get k_03ezhho => 'Tersalin';
-	@override String get k_11ctfsz => 'Belum tersedia';
+	@override String get k_11ctfsz => 'Belum diimplementasikan';
 	@override String get k_1hbjg5g => '[Pesan sistem grup]';
 	@override String get k_03tvswb => '[Pesan tidak dikenal]';
-	@override String get k_155cj23 => 'Anda menarik kembali pesan,';
-	@override String get k_0gapun3 => 'Edit ulang';
-	@override String k_1uh417q({required Object displayName}) => '$displayName menarik kembali pesan';
+	@override String get k_155cj23 => 'Anda menarik pesan,';
+	@override String get k_0gapun3 => 'Edit lagi';
 	@override String get k_1aszp2k => 'Apakah Anda yakin ingin mengirim ulang pesan ini?';
 	@override String get k_003rzap => 'Konfirmasi';
 	@override String get k_003nevv => 'Batal';
@@ -1208,10 +1190,9 @@ class _StringsId implements _StringsEn {
 	@override String get k_0h169j0 => 'Batalkan panggilan';
 	@override String get k_0h13jjk => 'Terima panggilan';
 	@override String get k_0h19hfx => 'Tolak panggilan';
-	@override String get k_0obi9lh => 'Tidak diangkat';
-	@override String k_0y9u662({required Object appName}) => 'Aplikasi "$appName" tidak dapat membuka file ini, Anda dapat menggunakan aplikasi lain';
+	@override String get k_0obi9lh => 'Panggilan tidak dijawab';
 	@override String get k_001nmhu => 'Buka dengan aplikasi lain';
-	@override String get k_1ht1b80 => 'Sedang menerima';
+	@override String get k_1ht1b80 => 'Menerima...';
 	@override String get k_105682d => 'Gagal memuat gambar';
 	@override String get k_0pytyeu => 'Gambar berhasil disimpan';
 	@override String get k_0akceel => 'Gagal menyimpan gambar';
@@ -1219,95 +1200,84 @@ class _StringsId implements _StringsEn {
 	@override String get k_04a0awq => '[Pesan suara]';
 	@override String get k_105c3y3 => 'Gagal memuat video';
 	@override String get k_176rzr7 => 'Riwayat obrolan';
-	@override String get k_0d5z4m5 => 'Pilih orang yang diingatkan';
+	@override String get k_0d5z4m5 => 'Pilih penerima pengingat';
 	@override String get k_003ngex => 'Selesai';
 	@override String get k_1665ltg => 'Mulai panggilan';
-	@override String get k_003n8b0 => 'Ambil foto';
+	@override String get k_003n8b0 => 'Ambil';
 	@override String get k_003kthh => 'Foto';
 	@override String get k_003tnp0 => 'File';
 	@override String get k_0jhdhtp => 'Gagal mengirim, video tidak boleh lebih dari 100MB';
 	@override String get k_119ucng => 'Gambar tidak boleh kosong';
-	@override String k_0w9x8gw({required Object successPath}) => 'Berhasil memilih $successPath';
-	@override String get k_13dsw4l => 'Lepas untuk membatalkan';
+	@override String get k_13dsw4l => 'Lepaskan untuk membatalkan';
 	@override String get k_0am7r68 => 'Geser ke atas untuk membatalkan pengiriman';
-	@override String get k_15jl6qw => 'Waktu bicara terlalu singkat!';
+	@override String get k_15jl6qw => 'Suara terlalu pendek!';
 	@override String get k_0gx7vl6 => 'Tahan untuk berbicara';
 	@override String get k_15dlafd => 'Teruskan satu per satu';
 	@override String get k_15dryxy => 'Teruskan gabungan';
-	@override String get k_1eyhieh => 'Konfirmasi menghapus pesan terpilih';
+	@override String get k_1eyhieh => 'Konfirmasi penghapusan pesan terpilih';
 	@override String get k_17fmlyf => 'Bersihkan obrolan';
-	@override String get k_0dhesoz => 'Batalkan penyematan';
+	@override String get k_0dhesoz => 'Lepaskan sematan';
 	@override String get k_002sk7x => 'Sematkan';
 	@override String get k_003ll77 => 'Draf';
 	@override String get k_03icaxo => 'Kustom';
-	@override String k_1969986({required Object callingLastMsgShow}) => '[Panggilan suara]: $callingLastMsgShow';
-	@override String k_1960dlr({required Object callingLastMsgShow}) => '[Panggilan video]: $callingLastMsgShow';
-	@override String k_1np495n({required Object messageString}) => '$messageString[Ada yang @saya]';
-	@override String k_1m797yi({required Object messageString}) => '$messageString[@semua]';
 	@override String get k_1uaov41 => 'Cari konten obrolan';
 	@override String get k_003kfai => 'Tidak dikenal';
 	@override String get k_13dq4an => 'Persetujuan otomatis';
 	@override String get k_0l13cde => 'Persetujuan admin';
-	@override String get k_11y8c6a => 'Larang bergabung grup';
-	@override String get k_1kvyskd => 'Tidak ada jaringan, tidak dapat mengubah';
-	@override String get k_16payqf => 'Cara bergabung grup';
-	@override String get k_0vzvn8r => 'Ubah nama grup';
+	@override String get k_11y8c6a => 'Bergabung dengan grup dilarang';
+	@override String get k_1kvyskd => 'Tidak ada koneksi jaringan, tidak dapat mengubah';
+	@override String get k_16payqf => 'Metode bergabung grup';
+	@override String get k_0vzvn8r => 'Edit nama grup';
 	@override String get k_038lh6u => 'Manajemen grup';
-	@override String get k_0k5wyiy => 'Atur admin';
+	@override String get k_0k5wyiy => 'Tetapkan sebagai admin';
 	@override String get k_0goiuwk => 'Bisukan semua';
-	@override String get k_1g889xx => 'Setelah pembisuan semua diaktifkan, hanya pemilik grup dan admin yang dapat berbicara.';
-	@override String get k_0wlrefq => 'Tambahkan anggota grup yang ingin dibisukan';
-	@override String get k_0goox5g => 'Atur pembisuan';
-	@override String get k_08daijh => 'Berhasil membatalkan status admin';
-	@override String k_0bxm97s({required Object adminNum}) => 'Admin ($adminNum/10)';
+	@override String get k_1g889xx => 'Ketika bisukan semua diaktifkan, hanya pemilik grup dan admin yang dapat berbicara.';
+	@override String get k_0wlrefq => 'Tambahkan anggota untuk dibisukan';
+	@override String get k_0goox5g => 'Tetapkan bisukan';
+	@override String get k_08daijh => 'Berhasil menghapus status admin';
 	@override String get k_0k5u935 => 'Tambahkan admin';
 	@override String get k_03enyx5 => 'Anggota grup';
-	@override String k_0jayw3z({required Object groupMemberNum}) => 'Anggota grup ($groupMemberNum orang)';
 	@override String get k_0h1svv1 => 'Hapus anggota grup';
 	@override String get k_0h1g636 => 'Tambahkan anggota grup';
-	@override String get k_0uj7208 => 'Tidak ada jaringan, tidak dapat melihat anggota grup';
-	@override String k_01yfa4o({required Object memberCount}) => '$memberCount orang';
+	@override String get k_0uj7208 => 'Tidak ada koneksi jaringan, tidak dapat melihat anggota grup';
 	@override String get k_0hpukyx => 'Lihat lebih banyak anggota grup';
-	@override String get k_0qtsar0 => 'Jangan ganggu';
-	@override String get k_0ef2a12 => 'Ubah nama grup saya';
-	@override String get k_1aajych => 'Hanya huruf Cina, huruf, angka dan garis bawah, 2-20 karakter';
-	@override String get k_137pab5 => 'Nama grup saya';
+	@override String get k_0qtsar0 => 'Nonaktifkan notifikasi';
+	@override String get k_0ef2a12 => 'Edit nama panggilan grup saya';
+	@override String get k_1aajych => 'Hanya huruf Tionghoa, huruf, angka dan garis bawah, 2-20 karakter';
+	@override String get k_137pab5 => 'Nama panggilan grup saya';
 	@override String get k_0ivim6d => 'Belum ada pengumuman grup';
 	@override String get k_03eq6cn => 'Pengumuman grup';
 	@override String get k_002vxya => 'Edit';
 	@override String get k_17fpl3y => 'Sematkan obrolan';
-	@override String get k_03es1ox => 'Tipe grup';
+	@override String get k_03es1ox => 'Jenis grup';
 	@override String get k_003mz1i => 'Setuju';
 	@override String get k_003lpre => 'Tolak';
 	@override String get k_003qk66 => 'Foto profil';
 	@override String get k_003lhvk => 'Nama panggilan';
 	@override String get k_003ps50 => 'Akun';
-	@override String get k_15lx52z => 'Status';
+	@override String get k_15lx52z => 'Tanda tangan pribadi';
 	@override String get k_003qgkp => 'Jenis kelamin';
 	@override String get k_003m6hr => 'Tanggal lahir';
 	@override String get k_0003v6a => 'Pria';
 	@override String get k_00043x2 => 'Wanita';
 	@override String get k_03bcjkv => 'Belum diatur';
-	@override String get k_11s0gdz => 'Ubah nama panggilan';
-	@override String get k_0p3j4sd => 'Hanya huruf Cina, huruf, angka dan garis bawah';
-	@override String get k_15lyvdt => 'Ubah status';
-	@override String get k_0vylzjp => 'Orang ini malas, tidak menulis apa pun';
-	@override String get k_1hs7ese => 'Tunggu online untuk mengubah ini';
+	@override String get k_11s0gdz => 'Edit nama panggilan';
+	@override String get k_0p3j4sd => 'Hanya karakter Tionghoa, huruf, angka dan garis bawah';
+	@override String get k_15lyvdt => 'Edit tanda tangan';
+	@override String get k_0vylzjp => 'Orang ini malas dan tidak meninggalkan apa pun';
+	@override String get k_1hs7ese => 'Ubah ini setelah online';
 	@override String get k_03exjk7 => 'Nama catatan';
 	@override String get k_0s3skfd => 'Tambahkan ke daftar hitam';
-	@override String get k_0p3b31s => 'Ubah nama catatan';
+	@override String get k_0p3b31s => 'Edit nama catatan';
 	@override String get k_0003y9x => 'Tidak ada';
 	@override String get k_11zgnfs => 'Profil pribadi';
-	@override String k_03xd79d({required Object signature}) => 'Status: $signature';
-	@override String get k_1tez2xl => 'Belum ada status';
+	@override String get k_1tez2xl => 'Belum ada tanda tangan pribadi';
 	@override String get k_118prbn => 'Pencarian global';
 	@override String get k_1m9dftc => 'Semua kontak';
-	@override String get k_0em4gyz => 'Semua grup';
-	@override String get k_002twmj => 'Grup';
-	@override String get k_09kga0d => 'Lebih banyak riwayat obrolan';
-	@override String k_1ui5lzi({required Object count}) => '$count riwayat obrolan terkait';
+	@override String get k_0em4gyz => 'Semua grup obrolan';
+	@override String get k_002twmj => 'Obrolan grup';
+	@override String get k_09kga0d => 'Riwayat obrolan lebih banyak';
 	@override String get k_09khmso => 'Riwayat obrolan terkait';
-	@override String k_1kevf4k({required Object receiver}) => 'Riwayat obrolan dengan $receiver';
 	@override String get k_0vjj2kp => 'Riwayat obrolan grup';
 	@override String get k_003n2rp => 'Pilih';
 	@override String get k_03ignw6 => 'Semua orang';
@@ -1318,72 +1288,73 @@ class _StringsId implements _StringsEn {
 	@override String get k_0pzwbmg => 'Video berhasil disimpan';
 	@override String get k_0aktupv => 'Gagal menyimpan video';
 	@override String k_1qbg9xc({required Object option8}) => '$option8 adalah ';
-	@override String k_1wq5ubm({required Object option7}) => '$option7 mengubah';
-	@override String k_0y5pu80({required Object option6}) => '$option6 keluar dari grup';
-	@override String k_0nl7cmd({required Object option5}) => 'Mengundang $option5 bergabung ke grup';
+	@override String k_1wq5ubm({required Object option7}) => '$option7 diubah';
+	@override String k_0y5pu80({required Object option6}) => '$option6 keluar grup';
+	@override String k_0nl7cmd({required Object option5}) => 'Mengundang $option5 bergabung grup';
 	@override String k_1ju5iqw({required Object option4}) => 'Mengeluarkan $option4 dari grup';
-	@override String k_1ovt677({required Object option3}) => 'Pengguna $option3 bergabung ke grup';
+	@override String k_1ovt677({required Object option3}) => 'Pengguna $option3 bergabung grup';
 	@override String k_0k05b8b({required Object option2}) => '$option2 telah';
 	@override String k_0wm4xeb({required Object option2}) => 'Pesan sistem $option2';
 	@override String k_0nbq9v3({required Object option2}) => 'Durasi panggilan: $option2';
 	@override String k_0i1kf53({required Object option2}) => '[File] $option2';
+	@override String k_1gnnby6({required Object option2}) => 'Ingin mengakses $option2 Anda';
 	@override String k_1wh4atg({required Object option2}) => '$option2 menit lalu';
 	@override String k_07sh7g1({required Object option2}) => 'Kemarin $option2';
-	@override String k_1pj8xzh({required Object option2}) => 'ID saya: $option2';
-	@override String k_0py1evo({required Object option2}) => 'Status: $option2';
-	@override String k_1kvj4i2({required Object option2}) => '$option2 menarik kembali pesan';
-	@override String k_1v0lbpp({required Object option2}) => 'Aplikasi "$option2" tidak dapat membuka file ini, Anda dapat menggunakan aplikasi lain';
+	@override String k_1pj8xzh({required Object option2}) => 'ID pengguna saya: $option2';
+	@override String k_0py1evo({required Object option2}) => 'Tanda tangan pribadi: $option2';
+	@override String k_1kvj4i2({required Object option2}) => '$option2 menarik pesan';
+	@override String k_1v0lbpp({required Object option2}) => 'Tidak dapat membuka jenis file "$option2", Anda dapat menggunakan aplikasi lain untuk membuka dan melihat pratinjau';
 	@override String k_0torwfz({required Object option2}) => 'Berhasil memilih $option2';
-	@override String k_0i1bjah({required Object option1}) => '$option1 menarik kembali pesan';
+	@override String k_0i1bjah({required Object option1}) => '$option1 menarik pesan';
 	@override String k_1qzxh9q({required Object option3}) => 'Durasi panggilan: $option3';
 	@override String k_0wrgmom({required Object option1}) => '[Panggilan suara]: $option1';
 	@override String k_06ix2f0({required Object option2}) => '[Panggilan video]: $option2';
 	@override String k_08o3z5w({required Object option1}) => '[File] $option1';
-	@override String k_0ezbepg({required Object option2}) => '$option2[Ada yang @saya]';
+	@override String k_0ezbepg({required Object option2}) => '$option2[Seseorang @saya]';
 	@override String k_1ccnht1({required Object option2}) => '$option2[@semua]';
 	@override String k_1k3arsw({required Object option2}) => 'Admin ($option2/10)';
-	@override String k_1d4golg({required Object option1}) => 'Anggota grup ($option1 orang)';
+	@override String k_1d4golg({required Object option1}) => 'Anggota grup($option1)';
 	@override String k_1bg69nt({required Object option1}) => '$option1 orang';
-	@override String k_00gjqxj({required Object option1}) => 'Status: $option1';
+	@override String k_00gjqxj({required Object option1}) => 'Tanda tangan pribadi: $option1';
 	@override String k_0c29cxr({required Object option1}) => '$option1 riwayat obrolan terkait';
 	@override String k_1twk5rz({required Object option1}) => 'Riwayat obrolan dengan $option1';
-	@override String k_1vn4xq1({required Object adminMember}) => 'Membatalkan $adminMember sebagai admin';
-	@override String get k_0e35hsw => 'Untuk memudahkan Anda mengirim foto atau video yang diambil kepada teman, serta melakukan panggilan video, izinkan kami mengakses kamera untuk mengambil foto dan video.';
-	@override String get k_0dj6yr7 => 'Untuk memudahkan Anda mengirim pesan suara, merekam video, serta panggilan suara dan video, izinkan kami menggunakan mikrofon untuk merekam.';
+	@override String k_1vn4xq1({required Object adminMember}) => 'Menghapus $adminMember sebagai admin';
+	@override String get k_0e35hsw => 'Untuk memudahkan mengirim foto/video ke teman dan panggilan video, harap izinkan akses kamera untuk mengambil foto dan video.';
+	@override String get k_0dj6yr7 => 'Untuk memudahkan mengirim pesan suara, merekam video dan panggilan audio/video, harap izinkan akses mikrofon untuk merekam.';
 	@override String get k_003qnsl => 'Penyimpanan';
-	@override String get k_0s3rtpw => 'Untuk memudahkan Anda melihat dan memilih gambar video dari album untuk dikirim kepada teman, serta menyimpan konten ke perangkat, izinkan kami mengakses foto, konten media di perangkat Anda.';
-	@override String k_0tezv85({required Object option2}) => ' Permintaan akses $option2';
+	@override String get k_0s3rtpw => 'Untuk memudahkan melihat/memilih foto/video dari album untuk dikirim ke teman dan menyimpan konten ke perangkat, harap izinkan akses ke foto/media di perangkat Anda.';
+	@override String k_0tezv85({required Object option2}) => 'Meminta akses $option2';
 	@override String get k_002rety => 'Izin';
-	@override String get k_18o68ro => 'Perlu memberikan';
-	@override String get k_1onpf8u => ' Izin kamera, untuk menggunakan fitur mengambil gambar video, panggilan video, dll.';
-	@override String get k_17irga5 => ' Izin mikrofon, untuk menggunakan fitur mengirim pesan suara, merekam video, panggilan suara dan video, dll.';
-	@override String get k_0572kc4 => ' Izin akses foto, untuk menggunakan fitur mengirim gambar, video, dll.';
-	@override String get k_0slykws => ' Izin menulis album, untuk menggunakan fitur menyimpan gambar, video, dll.';
-	@override String get k_119pkcd => ' Izin membaca/menulis file, untuk menggunakan kemampuan melihat dan memilih gambar dalam fitur obrolan serta mengirim file.';
-	@override String get k_0gqewd3 => 'Nanti saja';
-	@override String get k_03eq4s1 => 'Buka';
+	@override String get k_18o68ro => 'Memerlukan pemberian';
+	@override String get k_1onpf8u => 'Izin kamera untuk menggunakan pengambilan foto/video, panggilan video dll.';
+	@override String get k_17irga5 => 'Izin mikrofon untuk menggunakan pesan suara, perekaman video, panggilan audio/video dll.';
+	@override String get k_0572kc4 => 'Izin akses foto untuk menggunakan pengiriman gambar/video dll.';
+	@override String get k_0slykws => 'Izin menulis album untuk menggunakan penyimpanan gambar/video dll.';
+	@override String get k_119pkcd => 'Izin baca/tulis file untuk menggunakan kemampuan melihat/memilih gambar dan mengirim file dalam obrolan.';
+	@override String get k_0gqewd3 => 'Ingatkan nanti';
+	@override String get k_03eq4s1 => 'Pergi ke pengaturan';
 	@override String get k_0nt2uyg => 'Kembali ke posisi terbaru';
 	@override String k_04l16at({required Object option1}) => '$option1 pesan baru';
-	@override String get k_13p3w93 => 'Ada yang @saya';
+	@override String get k_13p3w93 => 'Seseorang @saya';
 	@override String get k_18w5uk6 => '@semua';
 	@override String get k_0jmujgh => 'File lain sedang diterima';
 	@override String get k_12s5ept => 'Detail pesan';
-	@override String k_0mxa4f4({required Object option1}) => '$option1 orang telah membaca';
-	@override String k_061tue3({required Object option2}) => '$option2 orang belum membaca';
-	@override String get k_18qjstb => 'Alihkan kepemilikan grup';
-	@override String k_0on1aj2({required Object option2}) => 'Ada $option2 pesan @saya';
-	@override String get k_09j4izl => '[Ada yang @saya] ';
+	@override String k_0mxa4f4({required Object option1}) => '$option1 telah dibaca';
+	@override String k_061tue3({required Object option2}) => '$option2 belum dibaca';
+	@override String get k_18qjstb => 'Transfer kepemilikan grup';
+	@override String k_0on1aj2({required Object option2}) => '$option2 pesan @saya';
+	@override String get k_09j4izl => '[Seseorang @saya] ';
 	@override String get k_1oqtjw0 => '[@semua] ';
 	@override String k_1x5a9vb({required Object option1}) => 'Saya: $option1';
 	@override String get k_14n31e7 => 'Permintaan bergabung grup';
-	@override String k_08nc5j1({required Object option1}) => 'Tipe grup: $option1';
+	@override String k_08nc5j1({required Object option1}) => 'Jenis grup: $option1';
 	@override String k_1josu12({required Object option1}) => '$option1 permintaan bergabung';
 	@override String k_0n2x5s0({required Object option2}) => 'Pesan verifikasi: $option2';
-	@override String get k_03c1nx0 => 'Telah disetujui';
-	@override String get k_03aw9w8 => 'Telah ditolak';
-	@override String get k_038ryos => 'Proses';
+	@override String get k_03c1nx0 => 'Disetujui';
+	@override String get k_03aw9w8 => 'Ditolak';
+	@override String get k_038ryos => 'Pergi ke proses';
 	@override String get k_0gw8pum => 'Aplikasi bergabung grup';
-	@override String get k_1gcvfrj => 'Silakan isi catatan';
+	@override String get k_1gcvfrj => 'Harap masukkan catatan';
 	@override String get k_002v9zj => 'Konfirmasi';
 	@override String get k_10oqrki => 'Ketuk untuk mengambil foto';
 	@override String get k_0f8b3ws => 'Gagal memuat';
@@ -1392,47 +1363,67 @@ class _StringsId implements _StringsEn {
 	@override String get k_003qkn3 => 'Rekam video';
 	@override String get k_003k6a7 => 'Ambil foto';
 	@override String get k_0bqpqco => 'Tombol kamera';
-	@override String get k_1626ozl => 'Hentikan rekaman';
+	@override String get k_1626ozl => 'Hentikan perekaman';
 	@override String get k_003lvmu => 'Depan';
 	@override String get k_003lued => 'Belakang';
 	@override String get k_003lwzh => 'Eksternal';
 	@override String get k_002qzi3 => 'Tutup';
 	@override String get k_003pufb => 'Otomatis';
 	@override String get k_0apm0ze => 'Flash saat mengambil foto';
-	@override String get k_157zog5 => 'Flash selalu';
+	@override String get k_157zog5 => 'Selalu flash';
 	@override String k_0cfyqhy({required Object option1}) => 'Pratinjau $option1';
 	@override String k_0phctlz({required Object option2}) => 'Mode flash: $option2';
 	@override String k_02vfqe0({required Object option3}) => 'Beralih ke kamera $option3';
-	@override String get k_0f0y9ex => 'Waktu bicara terlalu singkat';
+	@override String get k_0f0y9ex => 'Suara terlalu pendek';
 	@override String get k_0ln70tk => 'Tidak dapat membuka URL';
-	@override String get k_11a3jdv => 'Ketuk untuk mengambil foto, tahan lama untuk merekam video';
-	@override String get k_1k18miv => 'Harus menyertakan fungsi siklus hidup keluar grup, menyediakan metode navigasi untuk kembali ke beranda atau halaman lain.';
-	@override String get k_1fu9ahv => 'Status pembisuan semua';
-	@override String get k_0gmwbnd => 'Sedang membisukan semua';
+	@override String get k_11a3jdv => 'Ketuk untuk mengambil foto, tekan lama untuk merekam';
+	@override String get k_1k18miv => 'Harap berikan metode navigasi untuk fungsi siklus hidup keluar grup.';
+	@override String get k_0gmwbnd => 'Semua dibisukan';
 	@override String get k_0got2zr => 'Anda dibisukan';
-	@override String get k_0y9jck8 => 'Anda harus membuat bilah pencarian kustom dan menangani klik untuk navigasi';
-	@override String get k_0yum3tv => 'Jika menggunakan area kustom, harap masukkan komponen yang sesuai di profileWidgetBuilder';
+	@override String get k_0y9jck8 => 'Anda harus menyesuaikan bilah pencarian dan menangani navigasi klik';
+	@override String get k_0yum3tv => 'Jika menggunakan area kustom, teruskan komponen yang sesuai di profileWidgetBuilder';
 	@override String get k_09kalj0 => 'Bersihkan riwayat obrolan';
 	@override String get k_14j5iul => 'Hapus dan keluar';
-	@override String get k_125ru1w => 'Bubarkan grup ini';
-	@override String get k_0jtutmw => 'Setelah keluar, Anda tidak akan menerima pesan grup ini';
-	@override String get k_0jtzmqa => 'Setelah dibubarkan, Anda tidak akan menerima pesan grup ini';
-	@override String get k_0r8fi93 => 'Berhasil menambahkan teman';
-	@override String get k_02qw14e => 'Permintaan pertemanan telah dikirim';
-	@override String get k_0n3md5x => 'Pengguna saat ini ada di daftar hitam';
+	@override String get k_125ru1w => 'Bubarkan grup';
+	@override String get k_0jtutmw => 'Setelah keluar, Anda tidak akan menerima pesan dari grup ini';
+	@override String get k_0jtzmqa => 'Setelah dibubarkan, Anda tidak akan menerima pesan dari grup ini';
+	@override String get k_0r8fi93 => 'Teman berhasil ditambahkan';
+	@override String get k_02qw14e => 'Permintaan pertemanan terkirim';
+	@override String get k_0n3md5x => 'Pengguna saat ini dalam daftar hitam';
 	@override String get k_094phq4 => 'Gagal menambahkan teman';
-	@override String get k_129scag => 'Berhasil menghapus teman';
+	@override String get k_129scag => 'Teman berhasil dihapus';
 	@override String get k_129uzfn => 'Gagal menghapus teman';
 	@override String get k_1666isy => 'Bersihkan teman';
 	@override String get k_1679vrd => 'Tambahkan sebagai teman';
-	@override String get k_1ualc52 => 'Lihat data apa yang dibawa lawan';
-	@override String get k_0szluvp => 'Atur status online lawan';
-	@override String get k_0f4rnf8 => 'Pengguna ini sudah menjadi teman';
+	@override String get k_0h18bbi => 'Akhiri panggilan';
+	@override String get k_154q2hn => 'Panggilan tidak dijawab';
+	@override String get k_1mnjtnc => 'Pihak lain menutup telepon';
+	@override String get k_0l0mysn => 'Terjadi kesalahan:';
+	@override String get k_03fn6rg => 'Tidak ada respons';
+	@override String get k_003luo3 => 'Sibuk';
+	@override String get k_154jvfi => 'Anda ditendang offline';
+	@override String get k_1sp7jp6 => 'Membatalkan panggilan';
+	@override String get k_1045haa => 'Menunggu pihak lain menerima undangan...';
+	@override String get k_1gq7jv7 => 'Mengundang Anda untuk menelepon...';
+	@override String get k_003m7ey => 'Tutup telepon';
+	@override String get k_03ectox => 'Speaker';
+	@override String get k_003q2a4 => 'Jawab';
+	@override String get k_03ftugq => 'Kamera';
+	@override String get k_10setgr => 'Beralih ke panggilan suara';
+	@override String get k_1g7i9jz => 'Ganti kamera';
+	@override String get k_15ml1ls => 'Menunggu jawaban';
+	@override String get k_0nj9x9s => 'Mengundang Anda untuk bergabung dengan panggilan grup';
+	@override String get k_1vtto3l => 'Juga dalam panggilan:';
+	@override String get k_0h147mx => 'Dalam panggilan';
+	@override String k_0j6aylo({required Object option1}) => 'Durasi panggilan: $option1';
+	@override String get k_1fu9ahv => 'Status bisukan semua';
+	@override String get k_1ualc52 => 'Lihat data apa yang dibawa pihak lain';
+	@override String get k_0szluvp => 'Atur status online pihak lain';
+	@override String get k_0f4rnf8 => 'Pengguna sudah menjadi teman';
 	@override String get k_1tdkom4 => 'Anda sudah menjadi anggota grup';
-	@override String get k_1p2lyuz => 'Lawan sedang mengetik...';
-	@override String k_1g8wfpy({required Object option1}) => '...total $option1 orang';
+	@override String get k_1p2lyuz => 'Pihak lain sedang mengetik...';
+	@override String k_1g8wfpy({required Object option1}) => '...Total $option1 orang';
 	@override String get k_12rv9vw => 'Detail respons';
-	@override String k_0havgi0({required Object linkMessage}) => '[Lihat detail >>](${linkMessage.link})';
 	@override String get k_0n9p7g8 => 'Grup tidak ada';
 	@override String get k_1tdh5vn => 'Anda bukan anggota grup';
 	@override String get k_0h1q57v => 'Belum ada anggota grup';
@@ -1447,349 +1438,395 @@ class _StringsId implements _StringsEn {
 	@override String get k_07ycxwo => '[Tidak ada elemen]';
 	@override String get k_03rc9vz => '[Pesan teks]';
 	@override String get k_046uopf => '[Pesan video]';
-	@override String get k_0ehmsun => 'Ruang penyimpanan perangkat tidak cukup, disarankan untuk membersihkannya untuk pengalaman yang lebih baik';
+	@override String get k_0ehmsun => 'Penyimpanan perangkat tidak mencukupi, disarankan untuk membersihkan untuk pengalaman yang lebih baik';
 	@override String get k_003kmos => 'Gambar';
 	@override String get k_002s86q => 'Video';
-	@override String get k_06bk5ei => 'Pesan video hanya mendukung format mp4';
+	@override String get k_06bk5ei => 'Pesan video hanya dalam format mp4';
 	@override String get k_13opfxf => 'Versi web tidak mendukung pencarian';
-	@override String get k_1i0o0y2 => 'Sementara hanya tersedia untuk Android/iOS';
-	@override String k_045dtzl({required Object option1}) => 'Riwayat obrolan $option1';
-	@override String get k_0t0131u => 'Informasi profil grup';
+	@override String get k_1i0o0y2 => 'Saat ini hanya tersedia di Android/iOS';
+	@override String k_045dtzl({required Object option1}) => 'Riwayat obrolan dengan $option1';
+	@override String get k_0t0131u => 'Info profil grup';
 	@override String get k_18ok8xz => 'Metode penerimaan pesan';
 	@override String get k_03ax3ks => 'Profil grup';
-	@override String k_0sqvoqo({required Object option1}) => 'Menjadikan $option1 sebagai admin';
-	@override String k_1gbg1v8({required Object option1}) => 'Membatalkan $option1 sebagai admin';
+	@override String k_0sqvoqo({required Object option1}) => 'Tetapkan $option1 sebagai admin';
+	@override String k_1gbg1v8({required Object option1}) => 'Hapus $option1 sebagai admin';
 	@override String get k_17k64g4 => 'Grup berhasil dibuat!';
-	@override String get k_05mn217 => 'Plugin paket emoji belum terpasang, jika ingin menggunakan fitur terkait emoji, silakan instal sesuai dokumen ini: https://cloud.tencent.com/document/product/269/70746';
+	@override String get k_05mn217 => 'Plugin paket emoji belum diinstal, harap instal sesuai dokumentasi jika diperlukan: https://cloud.tencent.com/document/product/269/70746';
 	@override String get k_14j17nz => 'Belum ada paket emoji';
-	@override String k_1gnnby6({required Object option2}) => ' Ingin mengakses $option2 Anda';
-	@override String get k_0fvjexh => 'Sedang mengunduh';
-	@override String get k_1cdagzz => 'Telah ditambahkan ke antrian unduhan, file lain sedang diunduh';
+	@override String get k_1tmlcf0 => 'Panggilan baru masuk tetapi tidak dapat dijawab karena izin tidak mencukupi. Harap konfirmasi izin kamera/mikrofon diaktifkan.';
+	@override String get k_0fvjexh => 'Mengunduh';
+	@override String get k_1cdagzz => 'Ditambahkan ke antrian unduhan, file lain sedang mengunduh';
 	@override String get k_0g4vojc => 'Mulai mengunduh';
-	@override String get k_1g32es3 => '[Nakal]@2x.png';
-	@override String get k_1g8qorz => '[Cinta]@2x.png';
-	@override String get k_1g4hmx6 => '[Cinta]@2x.png';
-	@override String get k_1g6b558 => '[Hati]@2x.png';
-	@override String get k_1g3m4su => '[Sombong]@2x.png';
-	@override String get k_1g2jym7 => '[Melirik]@2x.png';
-	@override String get k_0cgkxuw => '[Permen lolipop]@2x.png';
-	@override String get k_1g48br2 => '[Pelukan]@2x.png';
-	@override String get k_1g49ol8 => '[Salam]@2x.png';
-	@override String get k_1g0ras3 => '[Otot]@2x.png';
-	@override String get k_1ghy881 => '[Mengejek]@2x.png';
-	@override String get k_1g86bmv => '[Diam]@2x.png';
-	@override String get k_1g1xs1p => '[Petasan]@2x.png';
-	@override String get k_1g8i6ri => '[Kotoran]@2x.png';
-	@override String get k_1g2u5kf => '[Keringat]@2x.png';
-	@override String get k_1g60uwh => '[Pita]@2x.png';
-	@override String get k_1g1o0d0 => '[Balon]@2x.png';
-	@override String get k_1g6a6yq => '[Pisau]@2x.png';
-	@override String get k_1g6vqo2 => '[Buruk]@2x.png';
-	@override String get k_1g0kvjc => '[Uang]@2x.png';
-	@override String get k_1g65x7e => '[Gerbong]@2x.png';
-	@override String get k_0e1tjol => '[Menguap]@2x.png';
-	@override String get k_1g65n58 => '[Tentara]@2x.png';
-	@override String get k_1g7se7o => '[Menangis]@2x.png';
-	@override String get k_1g03868 => '[Kue]@2x.png';
-	@override String get k_1h8nm66 => '[Pisau]@2x.png';
-	@override String get k_1g3dlpi => '[Sombong]@2x.png';
-	@override String get k_1g3u434 => '[Bohlam]@2x.png';
-	@override String get k_1giuqs7 => '[Layu]@2x.png';
-	@override String get k_1g8r0r9 => '[Berawan]@2x.png';
-	@override String get k_1g7k6i1 => '[Melamun]@2x.png';
-	@override String get k_1g44zsp => '[Gemetar]@2x.png';
-	@override String get k_1g5l96i => '[Pesawat]@2x.png';
-	@override String get k_1g7wsqj => '[Ciuman]@2x.png';
-	@override String get k_1g49luq => '[Berjuang]@2x.png';
-	@override String get k_1gixbsm => '[Kincir angin]@2x.png';
-	@override String get k_1g6cqbq => '[Canggung]@2x.png';
-	@override String get k_1g6jbw5 => '[Godaan]@2x.png';
-	@override String get k_1g3lwo1 => '[Tepuk tangan]@2x.png';
-	@override String get k_1g13nkj => '[Malu]@2x.png';
-	@override String get k_1g0mt47 => '[Tertawa]@2x.png';
-	@override String get k_0bxujkf => '[Lentera merah]@2x.png';
-	@override String get k_0hhaeh8 => '[Ganda merah]@2x.png';
-	@override String get k_1g0jnts => '[Tertawa jahat]@2x.png';
-	@override String get k_1g46g9c => '[Melambai]@2x.png';
-	@override String get k_1g4vi9g => '[Menoleh]@2x.png';
-	@override String get k_1gf7hes => '[Lapar]@2x.png';
-	@override String get k_1g6mvsm => '[Bersemangat]@2x.png';
-	@override String get k_1gku5mf => '[Tarian jalanan]@2x.png';
-	@override String get k_1g4hidg => '[Takut]@2x.png';
-	@override String get k_1gjbrtu => '[Terkejut]@2x.png';
-	@override String get k_1g6sand => '[Kopi]@2x.png';
-	@override String get k_1g4s8rj => '[Sujud]@2x.png';
-	@override String get k_1g1wn34 => '[Lucu]@2x.png';
-	@override String get k_1g3l0wd => '[Kasihan]@2x.png';
-	@override String get k_1ggaon9 => '[Mengorek hidung]@2x.png';
-	@override String get k_1ggvcb0 => '[Tengkorak]@2x.png';
-	@override String get k_1h8yqjt => '[Keren]@2x.png';
-	@override String get k_0jac97i => '[Hampir menangis]@2x.png';
-	@override String get k_1h8oiby => '[Mengantuk]@2x.png';
-	@override String get k_1g0s5hg => '[Lilin]@2x.png';
-	@override String get k_1g1iuer => '[Bola basket]@2x.png';
-	@override String get k_1g2xjfi => '[Keringat dingin]@2x.png';
-	@override String get k_0s5oyqw => '[Tas hadiah]@2x.png';
-	@override String get k_1g1qqvf => '[Hadiah]@2x.png';
-	@override String get k_1g2slew => '[Berkeringat]@2x.png';
-	@override String get k_1g3z9xx => '[Menangis]@2x.png';
-	@override String get k_1g6pabn => '[Mahjong]@2x.png';
-	@override String get k_0pkaxul => '[Mikrofon]@2x.png';
-	@override String get k_1g7m0zj => '[Kucing]@2x.png';
-	@override String get k_0ibvtpo => '[Cium]@2x.png';
-	@override String get k_1g1hoh1 => '[Mawar]@2x.png';
-	@override String get k_1gfzeow => '[Nasi]@2x.png';
-	@override String get k_1g5l15p => '[Mie]@2x.png';
-	@override String get k_1g2hfa6 => '[Botol susu]@2x.png';
-	@override String get k_1gix9pj => '[Sedih]@2x.png';
-	@override String get k_1giqn6g => '[Alarm]@2x.png';
-	@override String get k_1h8kd64 => '[Marah]@2x.png';
-	@override String get k_1g0vui9 => '[Kesal]@2x.png';
-	@override String get k_1g1jsj7 => '[Bola]@2x.png';
-	@override String get k_1ghdluw => '[Bir]@2x.png';
-	@override String get k_1gl6ec7 => '[Kumbang]@2x.png';
-	@override String get k_1g7gg5p => '[Cemberut]@2x.png';
-	@override String get k_1g8psin => '[Ping pong]@2x.png';
-	@override String get k_1gjzu3p => '[Mobil]@2x.png';
-	@override String get k_1h8mr0k => '[Kuat]@2x.png';
-	@override String get k_1g45y2n => '[Pukulan]@2x.png';
-	@override String get k_1gkaxsl => '[Kodok]@2x.png';
-	@override String get k_0jcfnoo => '[Memalukan]@2x.png';
-	@override String get k_1g4njy1 => '[Tinju]@2x.png';
-	@override String get k_1h8mqr3 => '[Lemah]@2x.png';
-	@override String get k_1h926fg => '[Menggoda]@2x.png';
-	@override String get k_1g6rtbq => '[Sofa]@2x.png';
-	@override String get k_1giirh6 => '[Hapus]@2x.png';
-	@override String get k_1g14ny9 => '[Petir]@2x.png';
-	@override String get k_1g6bmsr => '[Kemenangan]@2x.png';
-	@override String get k_1g1rytx => '[Mengungkapkan cinta]@2x.png';
-	@override String get k_1g52fbz => '[Pistol]@2x.png';
-	@override String get k_1h90dam => '[Sial]@2x.png';
-	@override String get k_1gigiae => '[Tidur]@2x.png';
-	@override String get k_1gijchz => '[Matahari]@2x.png';
-	@override String get k_1g1sgji => '[Lompat tali]@2x.png';
-	@override String get k_1gjwuri => '[Melompat]@2x.png';
-	@override String get k_1g0juhk => '[Tertawa diam-diam]@2x.png';
-	@override String get k_1h8nzla => '[Muntah]@2x.png';
-	@override String get k_1g6cv0i => '[Sedih]@2x.png';
-	@override String get k_1g46l5g => '[Jabat tangan]@2x.png';
-	@override String get k_1g2pgkd => '[Semangka]@2x.png';
-	@override String get k_1ging9p => '[Hujan]@2x.png';
-	@override String get k_1h8nzil => '[Takut]@2x.png';
-	@override String get k_1g7q7wr => '[Ciuman]@2x.png';
-	@override String get k_1gl6uum => '[Pisang]@2x.png';
-	@override String get k_1g23fys => '[Catur]@2x.png';
-	@override String get k_0j75rdh => '[Patah hati]@2x.png';
-	@override String get k_1g6ajj2 => '[Amplop]@2x.png';
-	@override String get k_1g21prz => '[Panda]@2x.png';
-	@override String get k_1h8octi => '[Sst]@2x.png';
-	@override String get k_1h91zox => '[Obat]@2x.png';
-	@override String get k_1ghttfl => '[Tanda tanya]@2x.png';
-	@override String get k_1ghk7sz => '[Licik]@2x.png';
-	@override String get k_0gl37zz => '[Kap mobil kanan]@2x.png';
-	@override String get k_0ifkj1p => '[Hmm kanan]@2x.png';
-	@override String get k_0g1yh2e => '[Tai chi kanan]@2x.png';
-	@override String get k_1g9dkfc => '[Payung]@2x.png';
-	@override String get k_1g8jl88 => '[Bulan]@2x.png';
-	@override String get k_1h8lhqj => '[Pusing]@2x.png';
-	@override String get k_1gi9x2q => '[Sampai jumpa]@2x.png';
-	@override String get k_1g6dwwv => '[Bom]@2x.png';
-	@override String get k_1fzmkfi => '[Siksa]@2x.png';
-	@override String get k_1g6jbiw => '[Tisu]@2x.png';
-	@override String get k_1ggjnwu => '[Makian]@2x.png';
-	@override String get k_1g4qlq8 => '[Kepala babi]@2x.png';
-	@override String get k_1g1lqzz => '[Gila]@2x.png';
-	@override String get k_1g80j3u => '[Berputar]@2x.png';
-	@override String get k_1g0z55s => '[Tertawa]@2x.png';
-	@override String get k_1g3ju6v => '[Cincin berlian]@2x.png';
-	@override String get k_0gl51l6 => '[Kap mobil kiri]@2x.png';
-	@override String get k_0iflllk => '[Hmm kiri]@2x.png';
-	@override String get k_0g1y3ir => '[Tai chi kiri]@2x.png';
 	@override String get k_026hiq5 => 'Memuat daftar pesan';
-	@override String get k_003tu8k => 'Cinta';
-	@override String get k_003myvp => 'Sombong';
-	@override String get k_003kddw => 'Melirik';
-	@override String get k_039yfhv => 'Permen lolipop';
-	@override String get k_003nu3p => 'Pelukan';
-	@override String get k_003nijr => 'Salam';
-	@override String get k_003mg88 => 'Otot';
-	@override String get k_002v17e => 'Mengejek';
-	@override String get k_003qhy4 => 'Diam';
-	@override String get k_003l5fq => 'Petasan';
-	@override String get k_003uacl => 'Kotoran';
-	@override String get k_003oq1g => 'Keringat';
-	@override String get k_003qvey => 'Pita';
-	@override String get k_003jci7 => 'Balon';
-	@override String get k_003pyu1 => 'Pisau';
-	@override String get k_003q97d => 'Buruk';
-	@override String get k_003po5d => 'Gerbong';
-	@override String get k_03eadb2 => 'Menguap';
-	@override String get k_003pnuf => 'Tentara';
-	@override String get k_003kg57 => 'Kue';
-	@override String get k_003mxkt => 'Sombong';
-	@override String get k_003onu3 => 'Bohlam';
-	@override String get k_002uv8s => 'Layu';
-	@override String get k_003kqy0 => 'Nakal';
-	@override String get k_003tyum => 'Berawan';
-	@override String get k_003pv9u => 'Melamun';
-	@override String get k_036o6mu => 'Gemetar';
-	@override String get k_003nogx => 'Pesawat';
-	@override String get k_003q7wg => 'Ciuman';
-	@override String get k_003m0jd => 'Berjuang';
-	@override String get k_002ult9 => 'Kincir angin';
-	@override String get k_003r8gt => 'Canggung';
-	@override String get k_003qy4u => 'Godaan';
-	@override String get k_003mnoa => 'Tepuk tangan';
-	@override String get k_003lmw8 => 'Malu';
-	@override String get k_003mb30 => 'Tertawa';
-	@override String get k_03bj41g => 'Lentera merah';
-	@override String get k_03dxw2f => 'Ganda merah';
-	@override String get k_003mk57 => 'Tertawa jahat';
-	@override String get k_003nmvf => 'Melambai';
-	@override String get k_003r2i7 => 'Menoleh';
-	@override String get k_002s6f3 => 'Lapar';
-	@override String get k_003qd0t => 'Bersemangat';
-	@override String get k_002vgi4 => 'Tarian jalanan';
-	@override String get k_003nz33 => 'Takut';
-	@override String get k_002wh4p => 'Terkejut';
-	@override String get k_003ozpu => 'Kopi';
-	@override String get k_003qvs4 => 'Sujud';
-	@override String get k_003l3wb => 'Lucu';
-	@override String get k_003nuwm => 'Kasihan';
-	@override String get k_002rw1q => 'Mengorek hidung';
-	@override String get k_002tujb => 'Tengkorak';
-	@override String get k_00030eq => 'Keren';
-	@override String get k_03i8ath => 'Hampir menangis';
-	@override String get k_000421h => 'Mengantuk';
-	@override String get k_003l5i7 => 'Lilin';
-	@override String get k_003j72g => 'Bola basket';
-	@override String get k_003ofwl => 'Keringat dingin';
-	@override String get k_02mw65v => 'Tas hadiah';
-	@override String get k_003ku40 => 'Hadiah';
-	@override String get k_003ookz => 'Berkeringat';
-	@override String get k_003on72 => 'Menangis';
-	@override String get k_003rjy0 => 'Mahjong';
-	@override String get k_003q2f8 => 'Kucing';
-	@override String get k_03et393 => 'Cium';
-	@override String get k_003j7j2 => 'Mawar';
-	@override String get k_002sr0b => 'Nasi';
-	@override String get k_003nnza => 'Mie';
-	@override String get k_003jef9 => 'Botol susu';
-	@override String get k_002umn0 => 'Sedih';
-	@override String get k_002rjib => 'Alarm';
-	@override String get k_0003zcn => 'Marah';
-	@override String get k_003jzwq => 'Kesal';
-	@override String get k_003j4js => 'Bola';
-	@override String get k_002r5ir => 'Bir';
-	@override String get k_002ubu4 => 'Kumbang';
-	@override String get k_003ppo6 => 'Cemberut';
-	@override String get k_003ty3o => 'Ping pong';
-	@override String get k_002vxwe => 'Mobil';
-	@override String get k_00043hb => 'Kuat';
-	@override String get k_003nmbo => 'Pukulan';
-	@override String get k_002tfhq => 'Kodok';
-	@override String get k_03i7lrn => 'Memalukan';
-	@override String get k_003r03m => 'Tinju';
-	@override String get k_00043h0 => 'Lemah';
-	@override String get k_000345z => 'Menggoda';
-	@override String get k_003qmp9 => 'Sofa';
-	@override String get k_003it8a => 'Petir';
-	@override String get k_003pxow => 'Kemenangan';
-	@override String get k_003kw8e => 'Mengungkapkan cinta';
-	@override String get k_003n99g => 'Pistol';
-	@override String get k_00035cl => 'Sial';
-	@override String get k_002vl3h => 'Tidur';
-	@override String get k_002rgqk => 'Matahari';
-	@override String get k_003m9d1 => 'Lompat tali';
-	@override String get k_002vobp => 'Melompat';
-	@override String get k_003mkoz => 'Tertawa diam-diam';
-	@override String get k_00041px => 'Muntah';
-	@override String get k_003rjh5 => 'Sedih';
-	@override String get k_003j36u => 'Semangka';
-	@override String get k_002re92 => 'Hujan';
-	@override String get k_00041py => 'Takut';
-	@override String get k_003q06o => 'Ciuman';
-	@override String get k_002ubjp => 'Pisang';
-	@override String get k_003o2tr => 'Catur';
-	@override String get k_03ie6pa => 'Patah hati';
-	@override String get k_003rao5 => 'Amplop';
-	@override String get k_003l3us => 'Panda';
-	@override String get k_000424d => 'Sst';
-	@override String get k_00033yi => 'Obat';
-	@override String get k_002qtyy => 'Tanda tanya';
-	@override String get k_002qe0o => 'Licik';
-	@override String get k_03gu7us => 'Kap mobil kanan';
-	@override String get k_03ere8m => 'Hmm kanan';
-	@override String get k_003uqk3 => 'Payung';
-	@override String get k_003tzdv => 'Bulan';
-	@override String get k_0003z00 => 'Pusing';
-	@override String get k_002vdrd => 'Sampai jumpa';
-	@override String get k_003ra1w => 'Bom';
-	@override String get k_003lcad => 'Siksa';
-	@override String get k_003q7sz => 'Tisu';
-	@override String get k_002thn9 => 'Makian';
-	@override String get k_003qx7f => 'Kepala babi';
-	@override String get k_003l044 => 'Gila';
-	@override String get k_003qg4h => 'Berputar';
-	@override String get k_003kb97 => 'Tertawa';
-	@override String get k_03gu53l => 'Kap mobil kiri';
-	@override String get k_03erd1f => 'Hmm kiri';
-	@override String get k_003nyvl => 'Cinta';
-	@override String get k_003r85z => 'Hati';
-	@override String get k_003mk8j => 'Uang';
-	@override String get k_003pwfj => 'Menangis';
-	@override String get k_00042w5 => 'Pisau';
-	@override String get k_003nmtr => 'Jabat tangan';
-	@override String get k_03c529p => 'Tai chi kanan';
-	@override String get k_003n4mk => 'Cincin berlian';
-	@override String get k_03c5488 => 'Tai chi kiri';
-	@override String get k_1llp7tu => 'Pengguna tidak ada';
-	@override String get k_0tbyqyb => 'Memuat...';
-	@override String get k_0td1p3f => 'Menyimpan...';
-	@override String get k_1klqdh1 => 'Hanya huruf Cina, huruf, angka dan garis bawah';
-	@override String get k_03el5lp => 'Belum diisi';
-	@override String get k_1ui0gai => 'Cari konten tertentu';
+	@override String get k_0b9q00i => 'Gedung Tencent/////10000 Shennan Avenue, Distrik Nanshan, Shenzhen';
+	@override String get k_03fw6h1 => 'Shenzhen';
+	@override String get k_0f7mdn7 => 'Pencarian gagal';
+	@override String get k_158cssa => 'Peta Tencent';
+	@override String get k_157htdw => 'Peta Gaode';
+	@override String get k_157im4z => 'Peta Baidu';
+	@override String get k_157m20e => 'Peta Apple';
+	@override String get k_1bqk7kl => 'Peta Gaode tidak terdeteksi';
+	@override String get k_12ba1nv => 'Peta Tencent tidak terdeteksi';
+	@override String get k_1dz8sci => 'Peta Baidu tidak terdeteksi';
+	@override String get k_0f7fvky => 'Gagal membuka';
+	@override String get k_1l2v0we => 'Di dalam Gedung Tencent, dekat Gedung R&D Info CMB, 18m jauhnya';
+	@override String get k_10o8gk2 => 'Cari lokasi';
+	@override String get k_10o86v7 => 'Lokasi tidak dikenal';
+	@override String get k_0elt0kw => 'Tambahkan grup obrolan';
+	@override String get k_03f15qk => 'Daftar hitam';
+	@override String get k_0s3p3ji => 'Belum ada daftar hitam';
+	@override String get k_0uc5cnb => 'Kami masih dalam beta, pembuatan saluran belum didukung.';
+	@override String get k_0s5ey0o => 'Audio/video real-time TRTC';
+	@override String get k_03gpl3d => 'Halo semuanya';
+	@override String get k_0352fjr => 'Tidak ada koneksi jaringan, gagal bergabung dengan saluran';
+	@override String get k_0d7n018 => 'Akhiri topik';
+	@override String get k_0d826hk => 'Sematkan topik';
+	@override String get k_15wcgna => 'Berhasil diakhiri';
+	@override String get k_15wo7xu => 'Berhasil disematkan';
+	@override String k_02slfpm({required Object errorMessage}) => 'Terjadi kesalahan $errorMessage';
+	@override String get k_0h22snw => 'Panggilan suara';
+	@override String get k_0h20hg5 => 'Panggilan video';
+	@override String get k_002s934 => 'Topik';
+	@override String get k_18g3zdo => 'Komunikasi Awan·IM';
+	@override String get k_1m8vyp0 => 'Kontak baru';
+	@override String get k_0elz70e => 'Grup obrolan saya';
+	@override String get k_18tb4mo => 'Tidak ada kontak';
+	@override String get k_18nuh87 => 'Hubungi kami';
+	@override String get k_1uf134v => 'Umpan balik/saran dapat bergabung dengan grup QQ: 788910197';
+	@override String get k_0xlhhrn => 'Jam online: Senin-Jumat, 10AM-8PM';
+	@override String get k_0gmpgcg => 'Belum ada percakapan';
+	@override String get k_1m8zuj4 => 'Pilih kontak';
+	@override String get k_002tu9r => 'Kinerja';
+	@override String k_0vwtop2({required Object getMsg}) => 'Pesan diterima:$getMsg';
+	@override String k_0upijvs({required Object message}) => 'Gagal mendapatkan daftar diskusi $message';
+	@override String get k_1tmcw5c => 'Harap lengkapi judul topik';
+	@override String get k_1cnmslk => 'Harap pilih setidaknya satu tag';
+	@override String k_0v5hlay({required Object message}) => 'Gagal membuat topik $message';
+	@override String get k_0z3ytji => 'Topik berhasil dibuat';
+	@override String get k_1a8vem3 => 'Pengecualian pembuat';
+	@override String get k_0eskkr1 => 'Pilih area diskusi';
+	@override String get k_0d7plb5 => 'Buat topik';
+	@override String get k_144t0ho => '---- Diskusi terkait ----';
+	@override String get k_0pnz619 => 'Masukkan judul topik';
+	@override String get k_136v279 => '+Tag (tambahkan setidaknya satu)';
+	@override String get k_04hjhvp => 'Pengecualian parameter area diskusi';
+	@override String get k_002r79h => 'Semua';
+	@override String get k_03ejkb6 => 'Telah bergabung';
+	@override String get k_172tngw => 'Topik (tidak terhubung)';
+	@override String get k_0rnmfc4 => 'Belum ada topik di bawah diskusi ini';
+	@override String get k_1pq0ybn => 'Belum bergabung dengan topik apa pun';
+	@override String get k_0bh95w0 => 'Tidak ada koneksi jaringan, gagal bergabung dengan topik';
+	@override String get k_0em28sp => 'Belum ada grup obrolan';
+	@override String get k_04dqh36 => 'Belum ada kontak baru';
+	@override String get k_08k00l9 => 'Memuat...';
+	@override String get k_197r4f7 => 'Layanan IM terhubung dengan sukses';
+	@override String get k_1s5xnir => 'Inisialisasi SDK IM gagal';
+	@override String k_0owk5ss({required Object failedReason}) => 'Login gagal $failedReason';
+	@override String get k_15bxnkw => 'Koneksi jaringan terputus';
+	@override String get k_0glj9us => 'Mulai percakapan';
+	@override String get k_1631kyh => 'Buat grup kerja';
+	@override String get k_1644yii => 'Buat grup sosial';
+	@override String get k_1fxfx04 => 'Buat grup rapat';
+	@override String get k_1cnkqc9 => 'Buat grup live';
+	@override String get k_002r09z => 'Saluran';
 	@override String get k_003nvk2 => 'Pesan';
-	@override String get k_03agld7 => 'Pemberitahuan grup';
-	@override String get k_0elt0kw => 'Tambahkan grup';
-	@override String get k_0s3sgel => 'Hapus dari daftar hitam';
+	@override String get k_1jwxwgt => 'Menghubungkan...';
+	@override String get k_03gm52d => 'Kontak';
+	@override String get k_003k7dc => 'Saya';
+	@override String get k_14yh35u => 'Login·Pesan Instan';
+	@override String get k_0st7i3e => 'Alami obrolan grup, panggilan audio/video dan fitur IM lainnya';
+	@override String get k_0cr1atw => 'Tiongkok Daratan';
+	@override String get k_0mnxjg7 => 'Selamat datang di Tencent Cloud IM. Untuk melindungi keamanan informasi pribadi Anda, kami telah memperbarui Kebijakan Privasi, terutama meningkatkan detail informasi pengguna yang dikumpulkan dan menambahkan penggunaan SDK pihak ketiga.';
+	@override String get k_1545beg => 'Silakan klik';
+	@override String get k_0opnzp6 => 'Perjanjian Pengguna';
+	@override String get k_00041m1 => 'dan';
+	@override String get k_0orhtx0 => 'Perjanjian Privasi';
+	@override String get k_11x8pvm => 'dan baca dengan seksama. Jika Anda setuju, klik "Setuju dan Lanjutkan" untuk mulai menggunakan produk dan layanan kami!';
+	@override String get k_17nw8gq => 'Setuju dan Lanjutkan';
+	@override String get k_1nynslj => 'Tidak Setuju dan Keluar';
+	@override String get k_0jsvmjm => 'Silakan masukkan nomor telepon';
+	@override String get k_1lg8qh2 => 'Format nomor telepon tidak valid';
+	@override String get k_03jia4z => 'Tidak ada koneksi jaringan';
+	@override String get k_007jqt2 => 'Kode verifikasi berhasil dikirim';
+	@override String get k_1a55aib => 'Pengecualian kode verifikasi';
+	@override String k_1mw45lz({required Object errorReason}) => 'Login gagal$errorReason';
+	@override String get k_16r3sej => 'Negara/Wilayah';
+	@override String get k_15hlgzr => 'Pilih kode negara Anda';
+	@override String get k_1bnmt3h => 'Harap gunakan bahasa Inggris untuk pencarian';
+	@override String get k_03fei8z => 'Nomor telepon';
+	@override String get k_03aj66h => 'Kode verifikasi';
+	@override String get k_1m9jtmw => 'Silakan masukkan kode verifikasi';
+	@override String get k_0y1wbxk => 'Dapatkan kode verifikasi';
+	@override String get k_002ri2g => 'Login';
+	@override String get k_161ecly => 'Saat ini tidak ada jaringan';
+	@override String get k_11uz2i8 => 'Coba jaringan lagi';
+	@override String get k_1vhzltr => 'Tencent Cloud Instant Messaging IM';
+	@override String get k_0j433ys => 'Tencent Cloud TRTC';
+	@override String get k_0epvs61 => 'Ubah tema';
+	@override String get k_12u8g8l => 'Pernyataan penafian';
+	@override String get k_1p0j8i3 => 'IM ("produk ini") adalah produk pengujian yang disediakan oleh Tencent Cloud. Tencent Cloud memiliki hak cipta dan kepemilikan. Produk ini hanya untuk pengalaman fungsional, bukan untuk penggunaan komersial apa pun. Untuk mematuhi persyaratan peraturan, semua interaksi audio/video direkam. Konten terlarang termasuk pornografi, pelecehan, kekerasan, terorisme, politik, dll.';
+	@override String get k_0k7qoht => 'Izinkan siapa pun untuk menambahkan teman';
+	@override String get k_1j91bvz => 'TUIKIT memilih avatar untuk Anda?';
+	@override String get k_1wmkneq => 'Memerlukan verifikasi saat menambahkan saya sebagai teman';
+	@override String get k_1eitsd0 => 'Tentang Tencent Cloud·Komunikasi';
+	@override String get k_1919d6m => 'Kebijakan Privasi';
+	@override String get k_0wqhgor => 'Daftar Pengumpulan Informasi Pribadi';
+	@override String get k_12rfxml => 'Daftar Berbagi Informasi Pihak Ketiga';
+	@override String get k_131g7q4 => 'Hapus akun';
+	@override String get k_03fel2u => 'Versi';
+	@override String get k_16kts8h => 'Logout';
+	@override String get k_13spdki => 'Kirim pesan';
+	@override String get k_14c600t => 'Edit catatan';
+	@override String get k_1f811a4 => 'Mendukung angka, huruf, garis bawah';
+	@override String get k_11z7ml4 => 'Detail';
+	@override String get k_1ajt0b1 => 'Gagal mendapatkan lokasi saat ini';
+	@override String get k_0lhm9xq => 'Pencarian dimulai dengan sukses';
+	@override String get k_0fdeled => 'Gagal memulai pencarian';
+	@override String get k_1yh0a50 => 'mapDidLoad-peta dimuat';
+	@override String get k_1t2zg6h => 'Validasi kode verifikasi gambar gagal';
+	@override String get k_03ibfd2 => 'Minggu';
+	@override String k_1o7lf2y({required Object errorMessage}) => 'Kesalahan server: $errorMessage';
+	@override String k_118l7sq({required Object requestErrorMessage}) => 'Kesalahan permintaan: $requestErrorMessage';
+	@override String get k_003nfx9 => 'Dalam';
+	@override String get k_003rvjp => 'Ringan';
+	@override String get k_003rtht => 'Cerah';
+	@override String get k_003qxiw => 'Mimpi';
+	@override String k_0s5zoi3({required Object option1}) => 'Terjadi kesalahan $option1';
+	@override String k_0i8egqa({required Object option8}) => 'Pesan diterima:$option8';
+	@override String k_0pokyns({required Object option8}) => 'Gagal mendapatkan daftar diskusi $option8';
+	@override String k_1y03m8a({required Object option8}) => 'Gagal membuat topik $option8';
+	@override String k_1v6uh9c({required Object option8}) => 'Login gagal $option8';
+	@override String k_0t5a9hl({required Object option1}) => 'Login gagal$option1';
+	@override String k_0k3uv02({required Object option8}) => 'Kesalahan server: $option8';
+	@override String k_1g9o3kz({required Object option8}) => 'Kesalahan permintaan: $option8';
+	@override String get k_14cahuz => 'Tentang Tencent Cloud · IM';
+	@override String get k_0llnalm => 'Versi SDK';
+	@override String get k_13dyfii => 'Versi aplikasi';
+	@override String get k_12h52zh => 'Kebijakan Privasi';
+	@override String get k_0fxhhwb => 'Perjanjian Pengguna';
+	@override String get k_18z2e6q => 'IM ("produk ini") adalah produk pengujian yang disediakan oleh Tencent Cloud. Tencent Cloud memiliki hak cipta dan kepemilikan. Produk ini hanya untuk pengalaman fungsional, bukan untuk penggunaan komersial apa pun. Konten terlarang termasuk pornografi, pelecehan, kekerasan, terorisme, politik, dll.';
+	@override String get k_0zu7dd7 => 'Daftar Pengumpulan Informasi';
+	@override String get k_0mcqhgh => 'Daftar Berbagi Informasi';
+	@override String get k_12eqaty => 'Konfirmasi penghapusan akun';
+	@override String get k_0ziqsr6 => 'Akun berhasil dihapus!';
+	@override String get k_002qtgt => 'Hapus';
+	@override String k_0rvdu91({required Object option1}) => 'Setelah penghapusan, Anda tidak dapat menggunakan akun ini, data terkait akan dihapus dan tidak dapat dipulihkan. ID akun saat ini: $option1';
+	@override String get k_15d22qk => 'Hapus akun';
+	@override String get k_036uv3f => 'Tencent Cloud IM';
+	@override String get k_167916k => 'Teman WeChat';
+	@override String get k_03euwr1 => 'Momen';
+	@override String get k_0cxccci => 'Mengundang Anda untuk panggilan video';
+	@override String get k_06lhh4b => 'Mengundang Anda untuk panggilan suara';
+	@override String get k_1ywo9ut => 'Instant Messaging IM dikembangkan berdasarkan kemampuan IM dasar QQ. Cukup integrasikan SDK untuk dengan mudah mengimplementasikan obrolan, percakapan, grup, manajemen profil, dan komentar langsung. Juga mendukung integrasi pesan sinyal dengan produk lain seperti papan tulis, mencakup semua skenario bisnis, mendukung mini program di semua platform.';
+	@override String get k_0ios26v => 'WeChat tidak terdeteksi';
+	@override String get k_1jg6d5x => 'Ringkasan Kebijakan Privasi';
+	@override String get k_0selni4 => 'Kebijakan Privasi';
+	@override String get k_10s6v2i => 'Daftar Pengumpulan Informasi';
+	@override String get k_0pasxq8 => 'Daftar Berbagi Informasi';
+	@override String get k_003r6vf => 'Login';
+	@override String get k_03f2zbs => 'Bagikan ke';
+	@override String get k_0cfkcaz => 'Dorongan pesan';
+	@override String get k_1rmkb2w => 'Dorong pesan obrolan baru';
+	@override String get k_1lg375c => 'Pemberitahuan pesan baru';
+	@override String k_1t0akzp({required Object option1}) => 'Setelah penghapusan, Anda tidak dapat menggunakan akun ini, data terkait akan dihapus dan tidak dapat dipulihkan. ID akun saat ini: $option1';
+	@override String get k_1699p6d => 'Gedung Tencent';
+	@override String get k_1ngd60h => '10000 Shennan Avenue, Shenzhen';
+	@override String get k_1na29vg => 'Pemeliharaan pesan lokasi';
+	@override String get k_1xmms9t => 'Daftar permintaan bergabung grup';
+	@override String get k_0dla4vp => 'Umpan balik/saran dapat bergabung dengan grup QQ';
+	@override String get k_1odrjd1 => 'Jam online: Senin-Jumat, 10AM-8PM';
+	@override String get k_1bh903m => 'Nomor grup QQ disalin';
+	@override String get k_16264lp => 'Salin nomor grup';
+	@override String get k_18ger86 => 'Tencent Cloud · IM';
+	@override String get k_1vd70l1 => 'Teknologi pesan instan yang melayani ratusan juta pengguna QQ';
+	@override String get k_036phup => 'Tencent Cloud IM';
+	@override String get k_0gfsln9 => 'Informasi berubah';
+	@override String get k_0ow4akh => 'Harap ikuti README Demo untuk mengkonfigurasi Baidu AK dan mengalami fitur pesan lokasi';
+	@override String get k_1kzh3lo => 'Harap ikuti dokumentasi ini https://docs.qq.com/doc/DSVliWE9acURta2dL untuk mengalami fitur pesan lokasi dengan cepat';
+	@override String get k_161zzkm => 'Harap masukkan nama pengguna';
+	@override String get k_1veosyv => 'Harap tulis kunci dalam variabel lingkungan';
+	@override String get k_03exdnb => 'Nama pengguna';
+	@override String get k_16kquu8 => 'Direktori saat ini';
+	@override String get k_0fbvuqs => 'Mulai menyalin';
+	@override String get k_16j153h => 'Aplikasi Tencent Cloud IM ("produk ini") adalah produk pengujian yang disediakan oleh Tencent Cloud. Tencent Cloud memiliki hak cipta dan kepemilikan. Produk ini hanya untuk pengalaman fungsional, bukan untuk penggunaan komersial apa pun. Konten terlarang termasuk pornografi, pelecehan, kekerasan, terorisme, politik, dll.';
+	@override String get k_13ghyf8 => '[Pemberitahuan Keamanan] Aplikasi ini hanya untuk mengalami fitur Tencent Cloud IM, bukan untuk negosiasi bisnis. Jangan percaya informasi terkait uang seperti transfer/hadiah, atau menelepon nomor asing untuk mencegah penipuan.';
+	@override String get k_0gt6cro => 'Klik untuk melaporkan';
+	@override String k_03595fk({required Object option1}) => ' dll. $option1 orang';
+	@override String k_1gpzgni({required Object option2}) => 'Grup $option2 orang';
+	@override String get k_02lfg57 => 'Obrolan grup baru';
+	@override String get k_17ifd8i => 'Selamat datang menggunakan aplikasi ini untuk mengalami layanan Tencent Cloud IM';
+	@override String get k_1f0ms23 => 'Status baca pesan';
+	@override String get k_1c0x9ha => 'Ketika dinonaktifkan, pesan yang Anda kirim/terima tidak akan menunjukkan status baca. Anda tidak akan melihat apakah orang lain membaca pesan Anda, juga orang lain tidak dapat melihat apakah Anda membaca pesan mereka.';
+	@override String get k_1dzhdr5 => 'Tampilkan status online';
+	@override String get k_0mwsniq => 'Ketika dinonaktifkan, Anda tidak akan melihat status online/tidak online teman dalam daftar percakapan dan kontak.';
+	@override String get k_0f7h6ay => 'Koneksi gagal';
+	@override String get k_0wreawq => 'Plugin Baidu Map tidak didukung di versi web, harap gunakan DEMO Aplikasi Mobile untuk mengalami fitur pesan lokasi.';
+	@override String get k_03c56co => 'Jangan pilih';
+	@override String get k_1klqdh1 => 'Hanya karakter Tionghoa, Inggris, angka dan garis bawah';
+	@override String get k_03el5lp => 'Belum diisi';
+	@override String get k_0554lam => 'Grup Teman Kerja (Work)';
+	@override String get k_1hyz1ua => 'Grup Sosial Publik (Public)';
+	@override String get k_1s8hjin => 'Grup Rapat Sementara (Meeting)';
+	@override String get k_16ejs8f => 'Grup Live (AVChatRoom)';
+	@override String get k_1rqdzbh => 'Komunitas (Community)';
+	@override String get k_1aue1b6 => 'Seperti grup WeChat. Setelah dibuat, hanya anggota yang ada dapat mengundang orang lain, tidak perlu persetujuan.';
+	@override String get k_0uldek7 => 'Seperti grup QQ. Setelah dibuat, pemilik dapat menetapkan admin. Pengguna perlu persetujuan pemilik/admin untuk bergabung setelah mencari ID grup.';
+	@override String get k_1nv4w25 => 'Bebas bergabung/keluar, dapat melihat pesan sebelum bergabung. Cocok untuk rapat audio/video, pendidikan online dll. ketika dikombinasikan dengan produk audio/video real-time.';
+	@override String get k_1wbmoof => 'Bebas bergabung/keluar, tidak ada batas anggota, tetapi tidak ada riwayat pesan. Cocok untuk siaran langsung dengan komentar obrolan.';
+	@override String get k_11mlyaa => 'Bebas bergabung/keluar, mendukung hingga 100k anggota dengan riwayat pesan. Pengguna dapat bergabung segera setelah mencari ID grup, tidak perlu persetujuan.';
+	@override String get k_0ylgdrb => 'DEMO Komunitas sedang dikembangkan, segera hadir';
+	@override String get k_0elsjm2 => 'Buat grup obrolan';
+	@override String get k_1iw4gdk => 'Izinkan siapa pun';
+	@override String get k_0i5ffqf => 'Memerlukan verifikasi';
+	@override String get k_111mgqj => 'Larang menambahkan saya sebagai teman';
+	@override String get k_03go2lu => 'Tidak ditentukan';
+	@override String get k_15zb99m => 'Cara menambahkan saya sebagai teman';
+	@override String get k_1llp7tu => 'Pengguna tidak ada';
+	@override String get k_0tbyqyb => 'Memuat…';
+	@override String get k_0td1p3f => 'Menyimpan…';
+	@override String get k_1ui0gai => 'Cari konten tertentu';
+	@override String get k_03agld7 => 'Notifikasi grup';
+	@override String get k_002wkr3 => 'Terjemahkan';
+	@override String get k_13g4hxv => 'Terjemahan selesai';
+	@override String get k_003mmoz => 'Roket';
+	@override String get k_003nogx => 'Pesawat';
+	@override String get k_003pjj6 => 'Mahkota';
+	@override String get k_000340k => 'Bunga';
+	@override String k_0cv8ngo({required Object option1}) => 'Mengirim $option1';
+	@override String get k_03a2zjl => 'Kirim hadiah';
+	@override String get k_0003yq8 => '';
+	@override String get k_13k5228 => 'Menyukai siaran langsung';
+	@override String get k_1k0rrvn => 'Katakan sesuatu...';
+	@override String get k_13jzi5y => 'Masuk siaran langsung';
+	@override String get k_14asoqo => 'Berhenti mengikuti';
+	@override String get k_003ohwe => 'Ikuti';
+	@override String k_1h33pzv({required Object option1}) => 'Pengikut $option1 |';
+	@override String k_07skbgr({required Object option2}) => ' Mengikuti $option2';
+	@override String k_1c99nb3({required Object option1}) => '$option1 10k+';
+	@override String get k_19mfrrb => 'Penonton online';
+	@override String get k_13m65um => 'Info penonton';
+	@override String k_19kj6te({required Object option1}) => '$option1 suka sesi ini';
 	@override String k_1qqgjra({required Object option3}) => '$option3 pesan belum dibaca';
 	@override String get k_0uubyjr => 'Berikut adalah pesan yang belum dibaca';
+	@override String get k_0kg1wsx => 'Pilih jenis grup';
+	@override String get k_003m6xh => 'Pengaturan';
+	@override String get k_18nszwl => 'Tentang kami';
+	@override String get k_003txiw => 'Tentang';
+	@override String get k_12fp4oc => 'Situs web resmi';
+	@override String get k_1391sy5 => 'Kembangkan sekali, terapkan ke semua platform, beradaptasi dengan layar lebar/sempit';
+	@override String get k_002vu95 => 'Selamat datang';
+	@override String get k_0o6nt4d => 'Saya telah membaca dan menyetujui ';
+	@override String get k_12l2415 => 'Perjanjian dan peraturan Tencent Cloud IM';
+	@override String get k_0rcqou9 => 'Hak Cipta © 2013-2023 Tencent Cloud. Seluruh Hak Dilindungi. Tencent Cloud';
+	@override String get k_003lmhx => 'Grup';
+	@override String get k_1s251fa => 'Kontak & Grup';
+	@override String get k_0cjp3hx => 'Silakan pilih kontak atau grup untuk melihat detail';
+	@override String get k_12veoax => 'Pengalihan saluran:';
+	@override String get k_002rfh9 => 'Internasional';
+	@override String get k_0864lq3 => 'Jika Anda memiliki pertanyaan selama penggunaan, silakan hubungi kami melalui:';
+	@override String get k_12625cy => 'Bergabung dengan grup sekarang';
+	@override String get k_131lvxd => 'Akun saya';
+	@override String get k_002qep7 => 'Antarmuka';
+	@override String get k_002vbyp => 'Tampilan';
+	@override String get k_16owrwc => 'Mode terang';
+	@override String get k_01zair9 => 'Mode gelap (dalam pengembangan)';
+	@override String get k_002skx2 => 'Tema';
+	@override String get k_002wzvs => 'Bahasa';
+	@override String get k_002woft => 'Inggris';
+	@override String get k_129eldp => 'Tionghoa Tradisional';
+	@override String get k_129ekqk => 'Tionghoa Sederhana';
+	@override String get k_002whil => 'Jepang';
+	@override String get k_002wqld => 'Korea';
+	@override String get k_003is6v => 'Umum';
+	@override String get k_12s2mfc => 'Lihat detail';
+	@override String get k_12fsjye => 'Situs web terkait';
+	@override String get k_16uejmj => 'Pusat pribadi';
+	@override String get k_0dtyory => 'Umpan balik';
+	@override String get k_03oy6z4 => 'Semua SDK';
+	@override String get k_03bh54n => 'Kode sumber';
+	@override String get k_0s3sgel => 'Hapus dari daftar hitam';
 	@override String get k_16as7eq => 'Reaksi emoji';
 	@override String get k_003s12u => 'Balas';
 	@override String get k_003s38r => 'Lainnya';
-	@override String get k_002wkr3 => 'Terjemahkan';
-	@override String get k_13g4hxv => 'Terjemahan selesai';
 	@override String get k_003molk => 'Emoji';
 	@override String get k_165bbw6 => 'Riwayat pesan';
 	@override String get k_13sqc0z => 'Bersihkan pesan';
 	@override String get k_0glns86 => 'Hapus percakapan';
-	@override String get k_13s99rx => 'Kosongkan pesan';
-	@override String get k_11vsa3j => 'Keluar dari grup';
+	@override String get k_13s99rx => 'Bersihkan semua pesan';
+	@override String get k_11vsa3j => 'Keluar grup';
 	@override String get k_11vvszp => 'Bubarkan grup';
 	@override String get k_15i9w72 => 'Admin grup';
 	@override String get k_0p3espj => 'Atur nama catatan';
 	@override String get k_118sw9v => 'Cari sekarang';
-	@override String get k_0h20hg5 => 'Panggilan video';
-	@override String get k_0h22snw => 'Panggilan suara';
-	@override String get k_003lz6t => 'Lawan';
+	@override String get k_1xn4cn2 => 'Pemeriksaan lingkungan runtime';
+	@override String get k_0sy25ey => 'Harap instal runtime Microsoft Edge WebView2 untuk menggunakan program ini.';
+	@override String get k_0g4tlsb => 'Unduh sekarang';
+	@override String get k_13ozr8k => 'Belum didukung';
+	@override String get k_16yiku8 => 'Pencarian lokal tidak didukung di web, harap gunakan Aplikasi Mobile atau versi Desktop';
+	@override String get k_003lz6t => 'Pihak lain';
 	@override String k_1xf4yre({required Object option1}) => 'Kirim ke $option1';
-	@override String get k_003por5 => 'Screenshot';
-	@override String get k_1rw7s82 => ' Izin akses video di album, untuk menggunakan fitur mengirim video, dll.';
+	@override String get k_003por5 => 'Tangkapan layar';
+	@override String get k_0c67rdb => 'Izinkan pilihan ganda';
+	@override String get k_11lav8q => 'Pemungutan suara anonim';
+	@override String get k_137cjfq => 'Hasil publik';
+	@override String get k_0e3jces => 'Silakan masukkan opsi';
+	@override String get k_0dcbhiz => 'Tambahkan opsi';
+	@override String get k_003r4qf => 'Publikasikan';
+	@override String get k_1xa5q8q => 'Silakan masukkan topik pemungutan suara';
+	@override String get k_003nv7m => 'Telah memilih';
+	@override String get k_002ym5d => 'suara,';
+	@override String get k_003pfxt => 'Persentase';
+	@override String get k_0fxdch1 => 'Plugin pemungutan suara belum diinisialisasi, harap inisialisasi terlebih dahulu';
+	@override String get k_1lzoopr => 'Bukan pesan pemungutan suara, harap periksa';
+	@override String get k_03ahybu => 'Sudah memilih';
+	@override String get k_11lamu8 => 'Pilih sekarang';
+	@override String get k_0b9h7nq => 'Pemungutan suara berakhir';
+	@override String get k_0c7zem1 => 'Kirim ulang';
+	@override String get k_11l1qvo => 'Akhiri pemungutan suara';
+	@override String get k_0z314c0 => '[Pilihan ganda]';
+	@override String get k_0z2zcm7 => '[Pilihan tunggal]';
+	@override String get k_0y8ap8v => '[Publik]';
+	@override String get k_0y4cs5n => '[Privat]';
+	@override String get k_0y6agtt => '[Anonim]';
+	@override String get k_0y68wmo => '[Nama asli]';
+	@override String k_1pssgjf({required Object option1}) => 'Peserta yang diharapkan: $option1';
+	@override String k_0x9zkqf({required Object option2}) => 'Peserta aktual: $option2';
+	@override String get k_09ikyqj => 'Lihat semua opsi';
+	@override String k_0h2jp2z({required Object option1}) => '$option1 suara';
+	@override String get k_0y2zr3y => '[Pemungutan suara]';
+	@override String get k_11lci1l => 'Buat pemungutan suara';
+	@override String get k_003l988 => 'Pemungutan suara';
+	@override String get k_1rw7s82 => ' Izin akses video album untuk menggunakan pengiriman video dll.';
 	@override String get k_003rcwm => 'Buka';
 	@override String get k_1698c42 => 'Buka di Finder';
 	@override String get k_066fxsz => 'Lihat folder';
 	@override String get k_0k432y2 => 'Tidak dapat mengirim, berisi folder';
 	@override String get k_002wb4y => 'Percakapan';
-	@override String get k_0od4qyh => 'File video tidak normal';
-	@override String get k_1bfkxg9 => 'Tidak mendukung pengiriman file 0KB';
-	@override String get k_0vvsw7g => 'File tidak normal';
+	@override String get k_0od4qyh => 'Pengecualian file video';
+	@override String get k_1cdzld5 => 'Silakan masukkan info produk';
+	@override String get k_19qt9y2 => 'Penilaian layanan';
+	@override String get k_13s7ltw => 'Pesan kartu';
+	@override String get k_13ajr25 => 'Dukungan online';
+	@override String get k_0ti5mfz => 'Belum ada dukungan online';
+	@override String get k_1bfkxg9 => 'Transfer file 0KB tidak didukung';
+	@override String get k_0vvsw7g => 'Pengecualian pemrosesan file';
 	@override String get k_06e224q => '[Pesan ditarik oleh admin]';
 	@override String get k_1u1mjcl => '[Pesan ditarik]';
 	@override String get k_1qcqxea => 'Pilih beberapa percakapan';
 	@override String get k_1qgmc20 => 'Pilih satu percakapan';
 	@override String get k_1d8nx6f => 'Buka di jendela baru';
-	@override String get k_1hz05ax => 'Sedang mengunduh sumber asli, harap tunggu...';
+	@override String get k_1hz05ax => 'Mengunduh sumber daya asli, harap tunggu...';
+	@override String get k_1fszgep => 'Selamat datang di komunitas Zhiliao untuk berdiskusi';
+	@override String get k_1xtvvs9 => 'Komunitas ini menggunakan Flutter UIKit yang sama untuk pengembangan semua platform seperti Aplikasi ini';
+	@override String get k_0cdljc3 => 'Pergi ke komunitas Zhiliao';
+	@override String get k_167dvo3 => 'Pilih teman';
+	@override String get k_1u1jwb8 => 'zhiliao.qq.com';
+	@override String get k_003lyik => 'Siaran langsung';
+	@override String get k_1vwbpp2 => 'Host belum mulai siaran';
+	@override String get k_1l1p7uv => 'Peringkat 162 dalam bagan per jam';
+	@override String get k_0p7ezww => 'Selamat datang di siaran langsung! Dilarang untuk anak di bawah umur melakukan siaran langsung, memberi tip atau penjualan minuman beralkohol kepada anak di bawah umur. Jika host menjual minuman beralkohol, anak di bawah umur harus menonton dengan pendamping. Konten terlarang termasuk aktivitas ilegal, pornografi, merokok/minum, bahaya, dll. Waspadalah terhadap penipuan jika host menginduksi tip/transaksi pribadi. Gunakan keranjang belanja di bawah, hindari kesepakatan pribadi. Lindungi properti Anda dari penipuan.';
+	@override String get k_0zw0eau => 'Hidup berbadai';
+	@override String get k_132m79q => 'Panggilan berakhir';
 	@override String get k_002robo => 'Bersihkan';
 }
 
@@ -5574,53 +5611,41 @@ extension on _StringsId {
 			'k_13sqwu4': 'Pesan suara',
 			'k_13sqjjp': 'Pesan video',
 			'k_1fdhj9g': 'Versi ini tidak mendukung pesan ini',
-			'k_06pujtm': 'Setuju semua pengguna menambahkan teman',
+			'k_06pujtm': 'Izinkan siapa pun menambahkan teman',
 			'k_0gyhkp5': 'Perlu verifikasi',
 			'k_121ruco': 'Tolak semua permintaan pertemanan',
 			'k_05nspni': 'Bidang kustom',
 			'k_03fchyy': 'Foto grup',
-			'k_03i9mfe': 'Profil grup',
+			'k_03i9mfe': 'Deskripsi grup',
 			'k_03agq58': 'Nama grup',
 			'k_039xqny': 'Notifikasi grup',
 			'k_003tr0a': 'Pemilik grup',
-			'k_03iqsh4': ({required Object s}) => '$s adalah ',
-			'k_191t5n4': ({required Object opUserNickName}) => '$opUserNickName mengubah',
-			'k_1pg6aoj': ({required Object opUserNickName}) => '$opUserNickName keluar dari grup',
-			'k_1f6zt3v': ({required Object invitedMemberString}) => 'Mengundang $invitedMemberString bergabung ke grup',
-			'k_0y7zd07': ({required Object invitedMemberString}) => 'Mengeluarkan $invitedMemberString dari grup',
-			'k_03c49qt': 'Otorisasi',
-			'k_1d5mshh': ({required Object joinedMemberString}) => 'Pengguna $joinedMemberString bergabung ke grup',
+			'k_03c49qt': 'Pergi ke otorisasi',
 			'k_002wddw': 'Bisukan',
 			'k_0got6f7': 'Batalkan pembisuan',
-			'k_0yenqf0': ({required Object userName}) => '$userName telah',
-			'k_0spotql': ({required Object adminMember}) => 'Menjadikan $adminMember sebagai admin',
-			'k_0pg5zzj': ({required Object operationType}) => 'Pesan sistem $operationType',
-			'k_0ohzb9l': ({required Object callTime}) => 'Durasi panggilan: $callTime',
 			'k_1uaqed6': '[Kustom]',
 			'k_0z2z7rx': '[Suara]',
 			'k_0y39ngu': '[Emoji]',
-			'k_1c7z88n': ({required Object fileName}) => '[File] $fileName',
 			'k_0y1a2my': '[Gambar]',
 			'k_0z4fib8': '[Video]',
 			'k_0y24mcg': '[Lokasi]',
-			'k_0pewpd1': '[Riwayat chat]',
+			'k_0pewpd1': '[Riwayat obrolan]',
 			'k_13s8d9p': 'Pesan tidak dikenal',
-			'k_1c3us5n': 'Grup ini tidak mendukung @all',
-			'k_11k579v': 'Pesan mengandung konten terlarang',
+			'k_1c3us5n': 'Grup saat ini tidak mendukung penyebutan @semua',
+			'k_11k579v': 'Pesan berisi konten terlarang',
 			'k_003qkx2': 'Kalender',
 			'k_003n2pz': 'Kamera',
 			'k_03idjo0': 'Kontak',
 			'k_003ltgm': 'Lokasi',
 			'k_02k3k86': 'Mikrofon',
-			'k_003pm7l': 'Album',
-			'k_15ao57x': 'Izin tulis album',
+			'k_003pm7l': 'Album foto',
+			'k_15ao57x': 'Izin menulis album',
 			'k_164m3jd': 'Penyimpanan lokal',
-			'k_0qba4ns': ({required Object yoursItem}) => 'Ingin mengakses $yoursItem Anda',
-			'k_03r6qyx': 'Kami memerlukan persetujuan Anda untuk mendapatkan informasi',
+			'k_03r6qyx': 'Kami membutuhkan persetujuan Anda untuk mengakses informasi',
 			'k_02noktt': 'Tolak',
-			'k_00043x4': 'Oke',
+			'k_00043x4': 'OK',
 			'k_003qzac': 'Kemarin',
-			'k_003r39d': 'Kemarin lusa',
+			'k_003r39d': 'Dua hari lalu',
 			'k_03fqp9o': 'Minggu',
 			'k_03ibg5h': 'Senin',
 			'k_03i7hu1': 'Selasa',
@@ -5628,48 +5653,42 @@ extension on _StringsId {
 			'k_03el9pa': 'Kamis',
 			'k_03i7ok1': 'Jumat',
 			'k_03efxyg': 'Sabtu',
-			'k_0oozw9x': ({required Object diffMinutes}) => '$diffMinutes menit lalu',
-			'k_003q7ba': 'Siang',
-			'k_003q7bb': 'Pagi',
+			'k_003q7ba': 'PM',
+			'k_003q7bb': 'AM',
 			'k_003pu3h': 'Sekarang',
-			'k_13hzn00': ({required Object yesterday}) => 'Kemarin $yesterday',
 			'k_0n9pyxz': 'Pengguna tidak ada',
 			'k_1bjwemh': 'Cari ID pengguna',
 			'k_003kv3v': 'Cari',
-			'k_02owlq8': ({required Object userID}) => 'ID saya: $userID',
-			'k_1wu8h4x': ({required Object showName}) => 'Saya: $showName',
 			'k_16758qw': 'Tambahkan teman',
-			'k_1shx4d9': ({required Object selfSignature}) => 'Status: $selfSignature',
-			'k_0i553x0': 'Isi pesan verifikasi',
-			'k_031ocwx': 'Silakan isi catatan dan grup',
+			'k_0i553x0': 'Masukkan pesan verifikasi',
+			'k_031ocwx': 'Silakan masukkan catatan dan grup',
 			'k_003ojje': 'Catatan',
 			'k_003lsav': 'Grup',
 			'k_167bdvq': 'Teman saya',
-			'k_156b4ut': 'Permintaan pertemanan telah dikirim',
+			'k_156b4ut': 'Permintaan pertemanan terkirim',
 			'k_002r305': 'Kirim',
 			'k_03gu05e': 'Ruang obrolan',
 			'k_03b4f3p': 'Grup rapat',
 			'k_03avj1p': 'Grup publik',
 			'k_03asq2g': 'Grup kerja',
 			'k_03b3hbi': 'Grup tidak dikenal',
-			'k_1loix7s': ({required Object groupType}) => 'Tipe grup: $groupType',
+			'k_1loix7s': ({required Object groupType}) => 'Jenis grup: $groupType',
 			'k_1lqbsib': 'Grup ini tidak ada',
 			'k_03h153m': 'Cari ID grup',
-			'k_0oxak3r': 'Permintaan bergabung grup telah dikirim',
+			'k_0oxak3r': 'Aplikasi grup terkirim',
 			'k_002rflt': 'Hapus',
 			'k_1don84v': 'Tidak dapat menemukan pesan asli',
 			'k_003q5fi': 'Salin',
 			'k_003prq0': 'Teruskan',
-			'k_002r1h2': 'Pilih banyak',
+			'k_002r1h2': 'Pilihan ganda',
 			'k_003j708': 'Kutip',
 			'k_003pqpr': 'Tarik kembali',
 			'k_03ezhho': 'Tersalin',
-			'k_11ctfsz': 'Belum tersedia',
+			'k_11ctfsz': 'Belum diimplementasikan',
 			'k_1hbjg5g': '[Pesan sistem grup]',
 			'k_03tvswb': '[Pesan tidak dikenal]',
-			'k_155cj23': 'Anda menarik kembali pesan,',
-			'k_0gapun3': 'Edit ulang',
-			'k_1uh417q': ({required Object displayName}) => '$displayName menarik kembali pesan',
+			'k_155cj23': 'Anda menarik pesan,',
+			'k_0gapun3': 'Edit lagi',
 			'k_1aszp2k': 'Apakah Anda yakin ingin mengirim ulang pesan ini?',
 			'k_003rzap': 'Konfirmasi',
 			'k_003nevv': 'Batal',
@@ -5680,10 +5699,9 @@ extension on _StringsId {
 			'k_0h169j0': 'Batalkan panggilan',
 			'k_0h13jjk': 'Terima panggilan',
 			'k_0h19hfx': 'Tolak panggilan',
-			'k_0obi9lh': 'Tidak diangkat',
-			'k_0y9u662': ({required Object appName}) => 'Aplikasi "$appName" tidak dapat membuka file ini, Anda dapat menggunakan aplikasi lain',
+			'k_0obi9lh': 'Panggilan tidak dijawab',
 			'k_001nmhu': 'Buka dengan aplikasi lain',
-			'k_1ht1b80': 'Sedang menerima',
+			'k_1ht1b80': 'Menerima...',
 			'k_105682d': 'Gagal memuat gambar',
 			'k_0pytyeu': 'Gambar berhasil disimpan',
 			'k_0akceel': 'Gagal menyimpan gambar',
@@ -5691,95 +5709,84 @@ extension on _StringsId {
 			'k_04a0awq': '[Pesan suara]',
 			'k_105c3y3': 'Gagal memuat video',
 			'k_176rzr7': 'Riwayat obrolan',
-			'k_0d5z4m5': 'Pilih orang yang diingatkan',
+			'k_0d5z4m5': 'Pilih penerima pengingat',
 			'k_003ngex': 'Selesai',
 			'k_1665ltg': 'Mulai panggilan',
-			'k_003n8b0': 'Ambil foto',
+			'k_003n8b0': 'Ambil',
 			'k_003kthh': 'Foto',
 			'k_003tnp0': 'File',
 			'k_0jhdhtp': 'Gagal mengirim, video tidak boleh lebih dari 100MB',
 			'k_119ucng': 'Gambar tidak boleh kosong',
-			'k_0w9x8gw': ({required Object successPath}) => 'Berhasil memilih $successPath',
-			'k_13dsw4l': 'Lepas untuk membatalkan',
+			'k_13dsw4l': 'Lepaskan untuk membatalkan',
 			'k_0am7r68': 'Geser ke atas untuk membatalkan pengiriman',
-			'k_15jl6qw': 'Waktu bicara terlalu singkat!',
+			'k_15jl6qw': 'Suara terlalu pendek!',
 			'k_0gx7vl6': 'Tahan untuk berbicara',
 			'k_15dlafd': 'Teruskan satu per satu',
 			'k_15dryxy': 'Teruskan gabungan',
-			'k_1eyhieh': 'Konfirmasi menghapus pesan terpilih',
+			'k_1eyhieh': 'Konfirmasi penghapusan pesan terpilih',
 			'k_17fmlyf': 'Bersihkan obrolan',
-			'k_0dhesoz': 'Batalkan penyematan',
+			'k_0dhesoz': 'Lepaskan sematan',
 			'k_002sk7x': 'Sematkan',
 			'k_003ll77': 'Draf',
 			'k_03icaxo': 'Kustom',
-			'k_1969986': ({required Object callingLastMsgShow}) => '[Panggilan suara]: $callingLastMsgShow',
-			'k_1960dlr': ({required Object callingLastMsgShow}) => '[Panggilan video]: $callingLastMsgShow',
-			'k_1np495n': ({required Object messageString}) => '$messageString[Ada yang @saya]',
-			'k_1m797yi': ({required Object messageString}) => '$messageString[@semua]',
 			'k_1uaov41': 'Cari konten obrolan',
 			'k_003kfai': 'Tidak dikenal',
 			'k_13dq4an': 'Persetujuan otomatis',
 			'k_0l13cde': 'Persetujuan admin',
-			'k_11y8c6a': 'Larang bergabung grup',
-			'k_1kvyskd': 'Tidak ada jaringan, tidak dapat mengubah',
-			'k_16payqf': 'Cara bergabung grup',
-			'k_0vzvn8r': 'Ubah nama grup',
+			'k_11y8c6a': 'Bergabung dengan grup dilarang',
+			'k_1kvyskd': 'Tidak ada koneksi jaringan, tidak dapat mengubah',
+			'k_16payqf': 'Metode bergabung grup',
+			'k_0vzvn8r': 'Edit nama grup',
 			'k_038lh6u': 'Manajemen grup',
-			'k_0k5wyiy': 'Atur admin',
+			'k_0k5wyiy': 'Tetapkan sebagai admin',
 			'k_0goiuwk': 'Bisukan semua',
-			'k_1g889xx': 'Setelah pembisuan semua diaktifkan, hanya pemilik grup dan admin yang dapat berbicara.',
-			'k_0wlrefq': 'Tambahkan anggota grup yang ingin dibisukan',
-			'k_0goox5g': 'Atur pembisuan',
-			'k_08daijh': 'Berhasil membatalkan status admin',
-			'k_0bxm97s': ({required Object adminNum}) => 'Admin ($adminNum/10)',
+			'k_1g889xx': 'Ketika bisukan semua diaktifkan, hanya pemilik grup dan admin yang dapat berbicara.',
+			'k_0wlrefq': 'Tambahkan anggota untuk dibisukan',
+			'k_0goox5g': 'Tetapkan bisukan',
+			'k_08daijh': 'Berhasil menghapus status admin',
 			'k_0k5u935': 'Tambahkan admin',
 			'k_03enyx5': 'Anggota grup',
-			'k_0jayw3z': ({required Object groupMemberNum}) => 'Anggota grup ($groupMemberNum orang)',
 			'k_0h1svv1': 'Hapus anggota grup',
 			'k_0h1g636': 'Tambahkan anggota grup',
-			'k_0uj7208': 'Tidak ada jaringan, tidak dapat melihat anggota grup',
-			'k_01yfa4o': ({required Object memberCount}) => '$memberCount orang',
+			'k_0uj7208': 'Tidak ada koneksi jaringan, tidak dapat melihat anggota grup',
 			'k_0hpukyx': 'Lihat lebih banyak anggota grup',
-			'k_0qtsar0': 'Jangan ganggu',
-			'k_0ef2a12': 'Ubah nama grup saya',
-			'k_1aajych': 'Hanya huruf Cina, huruf, angka dan garis bawah, 2-20 karakter',
-			'k_137pab5': 'Nama grup saya',
+			'k_0qtsar0': 'Nonaktifkan notifikasi',
+			'k_0ef2a12': 'Edit nama panggilan grup saya',
+			'k_1aajych': 'Hanya huruf Tionghoa, huruf, angka dan garis bawah, 2-20 karakter',
+			'k_137pab5': 'Nama panggilan grup saya',
 			'k_0ivim6d': 'Belum ada pengumuman grup',
 			'k_03eq6cn': 'Pengumuman grup',
 			'k_002vxya': 'Edit',
 			'k_17fpl3y': 'Sematkan obrolan',
-			'k_03es1ox': 'Tipe grup',
+			'k_03es1ox': 'Jenis grup',
 			'k_003mz1i': 'Setuju',
 			'k_003lpre': 'Tolak',
 			'k_003qk66': 'Foto profil',
 			'k_003lhvk': 'Nama panggilan',
 			'k_003ps50': 'Akun',
-			'k_15lx52z': 'Status',
+			'k_15lx52z': 'Tanda tangan pribadi',
 			'k_003qgkp': 'Jenis kelamin',
 			'k_003m6hr': 'Tanggal lahir',
 			'k_0003v6a': 'Pria',
 			'k_00043x2': 'Wanita',
 			'k_03bcjkv': 'Belum diatur',
-			'k_11s0gdz': 'Ubah nama panggilan',
-			'k_0p3j4sd': 'Hanya huruf Cina, huruf, angka dan garis bawah',
-			'k_15lyvdt': 'Ubah status',
-			'k_0vylzjp': 'Orang ini malas, tidak menulis apa pun',
-			'k_1hs7ese': 'Tunggu online untuk mengubah ini',
+			'k_11s0gdz': 'Edit nama panggilan',
+			'k_0p3j4sd': 'Hanya karakter Tionghoa, huruf, angka dan garis bawah',
+			'k_15lyvdt': 'Edit tanda tangan',
+			'k_0vylzjp': 'Orang ini malas dan tidak meninggalkan apa pun',
+			'k_1hs7ese': 'Ubah ini setelah online',
 			'k_03exjk7': 'Nama catatan',
 			'k_0s3skfd': 'Tambahkan ke daftar hitam',
-			'k_0p3b31s': 'Ubah nama catatan',
+			'k_0p3b31s': 'Edit nama catatan',
 			'k_0003y9x': 'Tidak ada',
 			'k_11zgnfs': 'Profil pribadi',
-			'k_03xd79d': ({required Object signature}) => 'Status: $signature',
-			'k_1tez2xl': 'Belum ada status',
+			'k_1tez2xl': 'Belum ada tanda tangan pribadi',
 			'k_118prbn': 'Pencarian global',
 			'k_1m9dftc': 'Semua kontak',
-			'k_0em4gyz': 'Semua grup',
-			'k_002twmj': 'Grup',
-			'k_09kga0d': 'Lebih banyak riwayat obrolan',
-			'k_1ui5lzi': ({required Object count}) => '$count riwayat obrolan terkait',
+			'k_0em4gyz': 'Semua grup obrolan',
+			'k_002twmj': 'Obrolan grup',
+			'k_09kga0d': 'Riwayat obrolan lebih banyak',
 			'k_09khmso': 'Riwayat obrolan terkait',
-			'k_1kevf4k': ({required Object receiver}) => 'Riwayat obrolan dengan $receiver',
 			'k_0vjj2kp': 'Riwayat obrolan grup',
 			'k_003n2rp': 'Pilih',
 			'k_03ignw6': 'Semua orang',
@@ -5790,72 +5797,73 @@ extension on _StringsId {
 			'k_0pzwbmg': 'Video berhasil disimpan',
 			'k_0aktupv': 'Gagal menyimpan video',
 			'k_1qbg9xc': ({required Object option8}) => '$option8 adalah ',
-			'k_1wq5ubm': ({required Object option7}) => '$option7 mengubah',
-			'k_0y5pu80': ({required Object option6}) => '$option6 keluar dari grup',
-			'k_0nl7cmd': ({required Object option5}) => 'Mengundang $option5 bergabung ke grup',
+			'k_1wq5ubm': ({required Object option7}) => '$option7 diubah',
+			'k_0y5pu80': ({required Object option6}) => '$option6 keluar grup',
+			'k_0nl7cmd': ({required Object option5}) => 'Mengundang $option5 bergabung grup',
 			'k_1ju5iqw': ({required Object option4}) => 'Mengeluarkan $option4 dari grup',
-			'k_1ovt677': ({required Object option3}) => 'Pengguna $option3 bergabung ke grup',
+			'k_1ovt677': ({required Object option3}) => 'Pengguna $option3 bergabung grup',
 			'k_0k05b8b': ({required Object option2}) => '$option2 telah',
 			'k_0wm4xeb': ({required Object option2}) => 'Pesan sistem $option2',
 			'k_0nbq9v3': ({required Object option2}) => 'Durasi panggilan: $option2',
 			'k_0i1kf53': ({required Object option2}) => '[File] $option2',
+			'k_1gnnby6': ({required Object option2}) => 'Ingin mengakses $option2 Anda',
 			'k_1wh4atg': ({required Object option2}) => '$option2 menit lalu',
 			'k_07sh7g1': ({required Object option2}) => 'Kemarin $option2',
-			'k_1pj8xzh': ({required Object option2}) => 'ID saya: $option2',
-			'k_0py1evo': ({required Object option2}) => 'Status: $option2',
-			'k_1kvj4i2': ({required Object option2}) => '$option2 menarik kembali pesan',
-			'k_1v0lbpp': ({required Object option2}) => 'Aplikasi "$option2" tidak dapat membuka file ini, Anda dapat menggunakan aplikasi lain',
+			'k_1pj8xzh': ({required Object option2}) => 'ID pengguna saya: $option2',
+			'k_0py1evo': ({required Object option2}) => 'Tanda tangan pribadi: $option2',
+			'k_1kvj4i2': ({required Object option2}) => '$option2 menarik pesan',
+			'k_1v0lbpp': ({required Object option2}) => 'Tidak dapat membuka jenis file "$option2", Anda dapat menggunakan aplikasi lain untuk membuka dan melihat pratinjau',
 			'k_0torwfz': ({required Object option2}) => 'Berhasil memilih $option2',
-			'k_0i1bjah': ({required Object option1}) => '$option1 menarik kembali pesan',
+			'k_0i1bjah': ({required Object option1}) => '$option1 menarik pesan',
 			'k_1qzxh9q': ({required Object option3}) => 'Durasi panggilan: $option3',
 			'k_0wrgmom': ({required Object option1}) => '[Panggilan suara]: $option1',
 			'k_06ix2f0': ({required Object option2}) => '[Panggilan video]: $option2',
 			'k_08o3z5w': ({required Object option1}) => '[File] $option1',
-			'k_0ezbepg': ({required Object option2}) => '$option2[Ada yang @saya]',
+			'k_0ezbepg': ({required Object option2}) => '$option2[Seseorang @saya]',
 			'k_1ccnht1': ({required Object option2}) => '$option2[@semua]',
 			'k_1k3arsw': ({required Object option2}) => 'Admin ($option2/10)',
-			'k_1d4golg': ({required Object option1}) => 'Anggota grup ($option1 orang)',
+			'k_1d4golg': ({required Object option1}) => 'Anggota grup($option1)',
 			'k_1bg69nt': ({required Object option1}) => '$option1 orang',
-			'k_00gjqxj': ({required Object option1}) => 'Status: $option1',
+			'k_00gjqxj': ({required Object option1}) => 'Tanda tangan pribadi: $option1',
 			'k_0c29cxr': ({required Object option1}) => '$option1 riwayat obrolan terkait',
 			'k_1twk5rz': ({required Object option1}) => 'Riwayat obrolan dengan $option1',
-			'k_1vn4xq1': ({required Object adminMember}) => 'Membatalkan $adminMember sebagai admin',
-			'k_0e35hsw': 'Untuk memudahkan Anda mengirim foto atau video yang diambil kepada teman, serta melakukan panggilan video, izinkan kami mengakses kamera untuk mengambil foto dan video.',
-			'k_0dj6yr7': 'Untuk memudahkan Anda mengirim pesan suara, merekam video, serta panggilan suara dan video, izinkan kami menggunakan mikrofon untuk merekam.',
+			'k_1vn4xq1': ({required Object adminMember}) => 'Menghapus $adminMember sebagai admin',
+			'k_0e35hsw': 'Untuk memudahkan mengirim foto/video ke teman dan panggilan video, harap izinkan akses kamera untuk mengambil foto dan video.',
+			'k_0dj6yr7': 'Untuk memudahkan mengirim pesan suara, merekam video dan panggilan audio/video, harap izinkan akses mikrofon untuk merekam.',
 			'k_003qnsl': 'Penyimpanan',
-			'k_0s3rtpw': 'Untuk memudahkan Anda melihat dan memilih gambar video dari album untuk dikirim kepada teman, serta menyimpan konten ke perangkat, izinkan kami mengakses foto, konten media di perangkat Anda.',
-			'k_0tezv85': ({required Object option2}) => ' Permintaan akses $option2',
+			'k_0s3rtpw': 'Untuk memudahkan melihat/memilih foto/video dari album untuk dikirim ke teman dan menyimpan konten ke perangkat, harap izinkan akses ke foto/media di perangkat Anda.',
+			'k_0tezv85': ({required Object option2}) => 'Meminta akses $option2',
 			'k_002rety': 'Izin',
-			'k_18o68ro': 'Perlu memberikan',
-			'k_1onpf8u': ' Izin kamera, untuk menggunakan fitur mengambil gambar video, panggilan video, dll.',
-			'k_17irga5': ' Izin mikrofon, untuk menggunakan fitur mengirim pesan suara, merekam video, panggilan suara dan video, dll.',
-			'k_0572kc4': ' Izin akses foto, untuk menggunakan fitur mengirim gambar, video, dll.',
-			'k_0slykws': ' Izin menulis album, untuk menggunakan fitur menyimpan gambar, video, dll.',
-			'k_119pkcd': ' Izin membaca/menulis file, untuk menggunakan kemampuan melihat dan memilih gambar dalam fitur obrolan serta mengirim file.',
-			'k_0gqewd3': 'Nanti saja',
-			'k_03eq4s1': 'Buka',
+			'k_18o68ro': 'Memerlukan pemberian',
+			'k_1onpf8u': 'Izin kamera untuk menggunakan pengambilan foto/video, panggilan video dll.',
+			'k_17irga5': 'Izin mikrofon untuk menggunakan pesan suara, perekaman video, panggilan audio/video dll.',
+			'k_0572kc4': 'Izin akses foto untuk menggunakan pengiriman gambar/video dll.',
+			'k_0slykws': 'Izin menulis album untuk menggunakan penyimpanan gambar/video dll.',
+			'k_119pkcd': 'Izin baca/tulis file untuk menggunakan kemampuan melihat/memilih gambar dan mengirim file dalam obrolan.',
+			'k_0gqewd3': 'Ingatkan nanti',
+			'k_03eq4s1': 'Pergi ke pengaturan',
 			'k_0nt2uyg': 'Kembali ke posisi terbaru',
 			'k_04l16at': ({required Object option1}) => '$option1 pesan baru',
-			'k_13p3w93': 'Ada yang @saya',
+			'k_13p3w93': 'Seseorang @saya',
 			'k_18w5uk6': '@semua',
 			'k_0jmujgh': 'File lain sedang diterima',
 			'k_12s5ept': 'Detail pesan',
-			'k_0mxa4f4': ({required Object option1}) => '$option1 orang telah membaca',
-			'k_061tue3': ({required Object option2}) => '$option2 orang belum membaca',
-			'k_18qjstb': 'Alihkan kepemilikan grup',
-			'k_0on1aj2': ({required Object option2}) => 'Ada $option2 pesan @saya',
-			'k_09j4izl': '[Ada yang @saya] ',
+			'k_0mxa4f4': ({required Object option1}) => '$option1 telah dibaca',
+			'k_061tue3': ({required Object option2}) => '$option2 belum dibaca',
+			'k_18qjstb': 'Transfer kepemilikan grup',
+			'k_0on1aj2': ({required Object option2}) => '$option2 pesan @saya',
+			'k_09j4izl': '[Seseorang @saya] ',
 			'k_1oqtjw0': '[@semua] ',
 			'k_1x5a9vb': ({required Object option1}) => 'Saya: $option1',
 			'k_14n31e7': 'Permintaan bergabung grup',
-			'k_08nc5j1': ({required Object option1}) => 'Tipe grup: $option1',
+			'k_08nc5j1': ({required Object option1}) => 'Jenis grup: $option1',
 			'k_1josu12': ({required Object option1}) => '$option1 permintaan bergabung',
 			'k_0n2x5s0': ({required Object option2}) => 'Pesan verifikasi: $option2',
-			'k_03c1nx0': 'Telah disetujui',
-			'k_03aw9w8': 'Telah ditolak',
-			'k_038ryos': 'Proses',
+			'k_03c1nx0': 'Disetujui',
+			'k_03aw9w8': 'Ditolak',
+			'k_038ryos': 'Pergi ke proses',
 			'k_0gw8pum': 'Aplikasi bergabung grup',
-			'k_1gcvfrj': 'Silakan isi catatan',
+			'k_1gcvfrj': 'Harap masukkan catatan',
 			'k_002v9zj': 'Konfirmasi',
 			'k_10oqrki': 'Ketuk untuk mengambil foto',
 			'k_0f8b3ws': 'Gagal memuat',
@@ -5864,47 +5872,67 @@ extension on _StringsId {
 			'k_003qkn3': 'Rekam video',
 			'k_003k6a7': 'Ambil foto',
 			'k_0bqpqco': 'Tombol kamera',
-			'k_1626ozl': 'Hentikan rekaman',
+			'k_1626ozl': 'Hentikan perekaman',
 			'k_003lvmu': 'Depan',
 			'k_003lued': 'Belakang',
 			'k_003lwzh': 'Eksternal',
 			'k_002qzi3': 'Tutup',
 			'k_003pufb': 'Otomatis',
 			'k_0apm0ze': 'Flash saat mengambil foto',
-			'k_157zog5': 'Flash selalu',
+			'k_157zog5': 'Selalu flash',
 			'k_0cfyqhy': ({required Object option1}) => 'Pratinjau $option1',
 			'k_0phctlz': ({required Object option2}) => 'Mode flash: $option2',
 			'k_02vfqe0': ({required Object option3}) => 'Beralih ke kamera $option3',
-			'k_0f0y9ex': 'Waktu bicara terlalu singkat',
+			'k_0f0y9ex': 'Suara terlalu pendek',
 			'k_0ln70tk': 'Tidak dapat membuka URL',
-			'k_11a3jdv': 'Ketuk untuk mengambil foto, tahan lama untuk merekam video',
-			'k_1k18miv': 'Harus menyertakan fungsi siklus hidup keluar grup, menyediakan metode navigasi untuk kembali ke beranda atau halaman lain.',
-			'k_1fu9ahv': 'Status pembisuan semua',
-			'k_0gmwbnd': 'Sedang membisukan semua',
+			'k_11a3jdv': 'Ketuk untuk mengambil foto, tekan lama untuk merekam',
+			'k_1k18miv': 'Harap berikan metode navigasi untuk fungsi siklus hidup keluar grup.',
+			'k_0gmwbnd': 'Semua dibisukan',
 			'k_0got2zr': 'Anda dibisukan',
-			'k_0y9jck8': 'Anda harus membuat bilah pencarian kustom dan menangani klik untuk navigasi',
-			'k_0yum3tv': 'Jika menggunakan area kustom, harap masukkan komponen yang sesuai di profileWidgetBuilder',
+			'k_0y9jck8': 'Anda harus menyesuaikan bilah pencarian dan menangani navigasi klik',
+			'k_0yum3tv': 'Jika menggunakan area kustom, teruskan komponen yang sesuai di profileWidgetBuilder',
 			'k_09kalj0': 'Bersihkan riwayat obrolan',
 			'k_14j5iul': 'Hapus dan keluar',
-			'k_125ru1w': 'Bubarkan grup ini',
-			'k_0jtutmw': 'Setelah keluar, Anda tidak akan menerima pesan grup ini',
-			'k_0jtzmqa': 'Setelah dibubarkan, Anda tidak akan menerima pesan grup ini',
-			'k_0r8fi93': 'Berhasil menambahkan teman',
-			'k_02qw14e': 'Permintaan pertemanan telah dikirim',
-			'k_0n3md5x': 'Pengguna saat ini ada di daftar hitam',
+			'k_125ru1w': 'Bubarkan grup',
+			'k_0jtutmw': 'Setelah keluar, Anda tidak akan menerima pesan dari grup ini',
+			'k_0jtzmqa': 'Setelah dibubarkan, Anda tidak akan menerima pesan dari grup ini',
+			'k_0r8fi93': 'Teman berhasil ditambahkan',
+			'k_02qw14e': 'Permintaan pertemanan terkirim',
+			'k_0n3md5x': 'Pengguna saat ini dalam daftar hitam',
 			'k_094phq4': 'Gagal menambahkan teman',
-			'k_129scag': 'Berhasil menghapus teman',
+			'k_129scag': 'Teman berhasil dihapus',
 			'k_129uzfn': 'Gagal menghapus teman',
 			'k_1666isy': 'Bersihkan teman',
 			'k_1679vrd': 'Tambahkan sebagai teman',
-			'k_1ualc52': 'Lihat data apa yang dibawa lawan',
-			'k_0szluvp': 'Atur status online lawan',
-			'k_0f4rnf8': 'Pengguna ini sudah menjadi teman',
+			'k_0h18bbi': 'Akhiri panggilan',
+			'k_154q2hn': 'Panggilan tidak dijawab',
+			'k_1mnjtnc': 'Pihak lain menutup telepon',
+			'k_0l0mysn': 'Terjadi kesalahan:',
+			'k_03fn6rg': 'Tidak ada respons',
+			'k_003luo3': 'Sibuk',
+			'k_154jvfi': 'Anda ditendang offline',
+			'k_1sp7jp6': 'Membatalkan panggilan',
+			'k_1045haa': 'Menunggu pihak lain menerima undangan...',
+			'k_1gq7jv7': 'Mengundang Anda untuk menelepon...',
+			'k_003m7ey': 'Tutup telepon',
+			'k_03ectox': 'Speaker',
+			'k_003q2a4': 'Jawab',
+			'k_03ftugq': 'Kamera',
+			'k_10setgr': 'Beralih ke panggilan suara',
+			'k_1g7i9jz': 'Ganti kamera',
+			'k_15ml1ls': 'Menunggu jawaban',
+			'k_0nj9x9s': 'Mengundang Anda untuk bergabung dengan panggilan grup',
+			'k_1vtto3l': 'Juga dalam panggilan:',
+			'k_0h147mx': 'Dalam panggilan',
+			'k_0j6aylo': ({required Object option1}) => 'Durasi panggilan: $option1',
+			'k_1fu9ahv': 'Status bisukan semua',
+			'k_1ualc52': 'Lihat data apa yang dibawa pihak lain',
+			'k_0szluvp': 'Atur status online pihak lain',
+			'k_0f4rnf8': 'Pengguna sudah menjadi teman',
 			'k_1tdkom4': 'Anda sudah menjadi anggota grup',
-			'k_1p2lyuz': 'Lawan sedang mengetik...',
-			'k_1g8wfpy': ({required Object option1}) => '...total $option1 orang',
+			'k_1p2lyuz': 'Pihak lain sedang mengetik...',
+			'k_1g8wfpy': ({required Object option1}) => '...Total $option1 orang',
 			'k_12rv9vw': 'Detail respons',
-			'k_0havgi0': ({required Object linkMessage}) => '[Lihat detail >>](${linkMessage.link})',
 			'k_0n9p7g8': 'Grup tidak ada',
 			'k_1tdh5vn': 'Anda bukan anggota grup',
 			'k_0h1q57v': 'Belum ada anggota grup',
@@ -5919,349 +5947,395 @@ extension on _StringsId {
 			'k_07ycxwo': '[Tidak ada elemen]',
 			'k_03rc9vz': '[Pesan teks]',
 			'k_046uopf': '[Pesan video]',
-			'k_0ehmsun': 'Ruang penyimpanan perangkat tidak cukup, disarankan untuk membersihkannya untuk pengalaman yang lebih baik',
+			'k_0ehmsun': 'Penyimpanan perangkat tidak mencukupi, disarankan untuk membersihkan untuk pengalaman yang lebih baik',
 			'k_003kmos': 'Gambar',
 			'k_002s86q': 'Video',
-			'k_06bk5ei': 'Pesan video hanya mendukung format mp4',
+			'k_06bk5ei': 'Pesan video hanya dalam format mp4',
 			'k_13opfxf': 'Versi web tidak mendukung pencarian',
-			'k_1i0o0y2': 'Sementara hanya tersedia untuk Android/iOS',
-			'k_045dtzl': ({required Object option1}) => 'Riwayat obrolan $option1',
-			'k_0t0131u': 'Informasi profil grup',
+			'k_1i0o0y2': 'Saat ini hanya tersedia di Android/iOS',
+			'k_045dtzl': ({required Object option1}) => 'Riwayat obrolan dengan $option1',
+			'k_0t0131u': 'Info profil grup',
 			'k_18ok8xz': 'Metode penerimaan pesan',
 			'k_03ax3ks': 'Profil grup',
-			'k_0sqvoqo': ({required Object option1}) => 'Menjadikan $option1 sebagai admin',
-			'k_1gbg1v8': ({required Object option1}) => 'Membatalkan $option1 sebagai admin',
+			'k_0sqvoqo': ({required Object option1}) => 'Tetapkan $option1 sebagai admin',
+			'k_1gbg1v8': ({required Object option1}) => 'Hapus $option1 sebagai admin',
 			'k_17k64g4': 'Grup berhasil dibuat!',
-			'k_05mn217': 'Plugin paket emoji belum terpasang, jika ingin menggunakan fitur terkait emoji, silakan instal sesuai dokumen ini: https://cloud.tencent.com/document/product/269/70746',
+			'k_05mn217': 'Plugin paket emoji belum diinstal, harap instal sesuai dokumentasi jika diperlukan: https://cloud.tencent.com/document/product/269/70746',
 			'k_14j17nz': 'Belum ada paket emoji',
-			'k_1gnnby6': ({required Object option2}) => ' Ingin mengakses $option2 Anda',
-			'k_0fvjexh': 'Sedang mengunduh',
-			'k_1cdagzz': 'Telah ditambahkan ke antrian unduhan, file lain sedang diunduh',
+			'k_1tmlcf0': 'Panggilan baru masuk tetapi tidak dapat dijawab karena izin tidak mencukupi. Harap konfirmasi izin kamera/mikrofon diaktifkan.',
+			'k_0fvjexh': 'Mengunduh',
+			'k_1cdagzz': 'Ditambahkan ke antrian unduhan, file lain sedang mengunduh',
 			'k_0g4vojc': 'Mulai mengunduh',
-			'k_1g32es3': '[Nakal]@2x.png',
-			'k_1g8qorz': '[Cinta]@2x.png',
-			'k_1g4hmx6': '[Cinta]@2x.png',
-			'k_1g6b558': '[Hati]@2x.png',
-			'k_1g3m4su': '[Sombong]@2x.png',
-			'k_1g2jym7': '[Melirik]@2x.png',
-			'k_0cgkxuw': '[Permen lolipop]@2x.png',
-			'k_1g48br2': '[Pelukan]@2x.png',
-			'k_1g49ol8': '[Salam]@2x.png',
-			'k_1g0ras3': '[Otot]@2x.png',
-			'k_1ghy881': '[Mengejek]@2x.png',
-			'k_1g86bmv': '[Diam]@2x.png',
-			'k_1g1xs1p': '[Petasan]@2x.png',
-			'k_1g8i6ri': '[Kotoran]@2x.png',
-			'k_1g2u5kf': '[Keringat]@2x.png',
-			'k_1g60uwh': '[Pita]@2x.png',
-			'k_1g1o0d0': '[Balon]@2x.png',
-			'k_1g6a6yq': '[Pisau]@2x.png',
-			'k_1g6vqo2': '[Buruk]@2x.png',
-			'k_1g0kvjc': '[Uang]@2x.png',
-			'k_1g65x7e': '[Gerbong]@2x.png',
-			'k_0e1tjol': '[Menguap]@2x.png',
-			'k_1g65n58': '[Tentara]@2x.png',
-			'k_1g7se7o': '[Menangis]@2x.png',
-			'k_1g03868': '[Kue]@2x.png',
-			'k_1h8nm66': '[Pisau]@2x.png',
-			'k_1g3dlpi': '[Sombong]@2x.png',
-			'k_1g3u434': '[Bohlam]@2x.png',
-			'k_1giuqs7': '[Layu]@2x.png',
-			'k_1g8r0r9': '[Berawan]@2x.png',
-			'k_1g7k6i1': '[Melamun]@2x.png',
-			'k_1g44zsp': '[Gemetar]@2x.png',
-			'k_1g5l96i': '[Pesawat]@2x.png',
-			'k_1g7wsqj': '[Ciuman]@2x.png',
-			'k_1g49luq': '[Berjuang]@2x.png',
-			'k_1gixbsm': '[Kincir angin]@2x.png',
-			'k_1g6cqbq': '[Canggung]@2x.png',
-			'k_1g6jbw5': '[Godaan]@2x.png',
-			'k_1g3lwo1': '[Tepuk tangan]@2x.png',
-			'k_1g13nkj': '[Malu]@2x.png',
-			'k_1g0mt47': '[Tertawa]@2x.png',
-			'k_0bxujkf': '[Lentera merah]@2x.png',
-			'k_0hhaeh8': '[Ganda merah]@2x.png',
-			'k_1g0jnts': '[Tertawa jahat]@2x.png',
-			'k_1g46g9c': '[Melambai]@2x.png',
-			'k_1g4vi9g': '[Menoleh]@2x.png',
-			'k_1gf7hes': '[Lapar]@2x.png',
-			'k_1g6mvsm': '[Bersemangat]@2x.png',
-			'k_1gku5mf': '[Tarian jalanan]@2x.png',
-			'k_1g4hidg': '[Takut]@2x.png',
-			'k_1gjbrtu': '[Terkejut]@2x.png',
-			'k_1g6sand': '[Kopi]@2x.png',
-			'k_1g4s8rj': '[Sujud]@2x.png',
-			'k_1g1wn34': '[Lucu]@2x.png',
-			'k_1g3l0wd': '[Kasihan]@2x.png',
-			'k_1ggaon9': '[Mengorek hidung]@2x.png',
-			'k_1ggvcb0': '[Tengkorak]@2x.png',
-			'k_1h8yqjt': '[Keren]@2x.png',
-			'k_0jac97i': '[Hampir menangis]@2x.png',
-			'k_1h8oiby': '[Mengantuk]@2x.png',
-			'k_1g0s5hg': '[Lilin]@2x.png',
-			'k_1g1iuer': '[Bola basket]@2x.png',
-			'k_1g2xjfi': '[Keringat dingin]@2x.png',
-			'k_0s5oyqw': '[Tas hadiah]@2x.png',
-			'k_1g1qqvf': '[Hadiah]@2x.png',
-			'k_1g2slew': '[Berkeringat]@2x.png',
-			'k_1g3z9xx': '[Menangis]@2x.png',
-			'k_1g6pabn': '[Mahjong]@2x.png',
-			'k_0pkaxul': '[Mikrofon]@2x.png',
-			'k_1g7m0zj': '[Kucing]@2x.png',
-			'k_0ibvtpo': '[Cium]@2x.png',
-			'k_1g1hoh1': '[Mawar]@2x.png',
-			'k_1gfzeow': '[Nasi]@2x.png',
-			'k_1g5l15p': '[Mie]@2x.png',
-			'k_1g2hfa6': '[Botol susu]@2x.png',
-			'k_1gix9pj': '[Sedih]@2x.png',
-			'k_1giqn6g': '[Alarm]@2x.png',
-			'k_1h8kd64': '[Marah]@2x.png',
-			'k_1g0vui9': '[Kesal]@2x.png',
-			'k_1g1jsj7': '[Bola]@2x.png',
-			'k_1ghdluw': '[Bir]@2x.png',
-			'k_1gl6ec7': '[Kumbang]@2x.png',
-			'k_1g7gg5p': '[Cemberut]@2x.png',
-			'k_1g8psin': '[Ping pong]@2x.png',
-			'k_1gjzu3p': '[Mobil]@2x.png',
-			'k_1h8mr0k': '[Kuat]@2x.png',
-			'k_1g45y2n': '[Pukulan]@2x.png',
-			'k_1gkaxsl': '[Kodok]@2x.png',
-			'k_0jcfnoo': '[Memalukan]@2x.png',
-			'k_1g4njy1': '[Tinju]@2x.png',
-			'k_1h8mqr3': '[Lemah]@2x.png',
-			'k_1h926fg': '[Menggoda]@2x.png',
-			'k_1g6rtbq': '[Sofa]@2x.png',
-			'k_1giirh6': '[Hapus]@2x.png',
-			'k_1g14ny9': '[Petir]@2x.png',
-			'k_1g6bmsr': '[Kemenangan]@2x.png',
-			'k_1g1rytx': '[Mengungkapkan cinta]@2x.png',
-			'k_1g52fbz': '[Pistol]@2x.png',
-			'k_1h90dam': '[Sial]@2x.png',
-			'k_1gigiae': '[Tidur]@2x.png',
-			'k_1gijchz': '[Matahari]@2x.png',
-			'k_1g1sgji': '[Lompat tali]@2x.png',
-			'k_1gjwuri': '[Melompat]@2x.png',
-			'k_1g0juhk': '[Tertawa diam-diam]@2x.png',
-			'k_1h8nzla': '[Muntah]@2x.png',
-			'k_1g6cv0i': '[Sedih]@2x.png',
-			'k_1g46l5g': '[Jabat tangan]@2x.png',
-			'k_1g2pgkd': '[Semangka]@2x.png',
-			'k_1ging9p': '[Hujan]@2x.png',
-			'k_1h8nzil': '[Takut]@2x.png',
-			'k_1g7q7wr': '[Ciuman]@2x.png',
-			'k_1gl6uum': '[Pisang]@2x.png',
-			'k_1g23fys': '[Catur]@2x.png',
-			'k_0j75rdh': '[Patah hati]@2x.png',
-			'k_1g6ajj2': '[Amplop]@2x.png',
-			'k_1g21prz': '[Panda]@2x.png',
-			'k_1h8octi': '[Sst]@2x.png',
-			'k_1h91zox': '[Obat]@2x.png',
-			'k_1ghttfl': '[Tanda tanya]@2x.png',
-			'k_1ghk7sz': '[Licik]@2x.png',
-			'k_0gl37zz': '[Kap mobil kanan]@2x.png',
-			'k_0ifkj1p': '[Hmm kanan]@2x.png',
-			'k_0g1yh2e': '[Tai chi kanan]@2x.png',
-			'k_1g9dkfc': '[Payung]@2x.png',
-			'k_1g8jl88': '[Bulan]@2x.png',
-			'k_1h8lhqj': '[Pusing]@2x.png',
-			'k_1gi9x2q': '[Sampai jumpa]@2x.png',
-			'k_1g6dwwv': '[Bom]@2x.png',
-			'k_1fzmkfi': '[Siksa]@2x.png',
-			'k_1g6jbiw': '[Tisu]@2x.png',
-			'k_1ggjnwu': '[Makian]@2x.png',
-			'k_1g4qlq8': '[Kepala babi]@2x.png',
-			'k_1g1lqzz': '[Gila]@2x.png',
-			'k_1g80j3u': '[Berputar]@2x.png',
-			'k_1g0z55s': '[Tertawa]@2x.png',
-			'k_1g3ju6v': '[Cincin berlian]@2x.png',
-			'k_0gl51l6': '[Kap mobil kiri]@2x.png',
-			'k_0iflllk': '[Hmm kiri]@2x.png',
-			'k_0g1y3ir': '[Tai chi kiri]@2x.png',
 			'k_026hiq5': 'Memuat daftar pesan',
-			'k_003tu8k': 'Cinta',
-			'k_003myvp': 'Sombong',
-			'k_003kddw': 'Melirik',
-			'k_039yfhv': 'Permen lolipop',
-			'k_003nu3p': 'Pelukan',
-			'k_003nijr': 'Salam',
-			'k_003mg88': 'Otot',
-			'k_002v17e': 'Mengejek',
-			'k_003qhy4': 'Diam',
-			'k_003l5fq': 'Petasan',
-			'k_003uacl': 'Kotoran',
-			'k_003oq1g': 'Keringat',
-			'k_003qvey': 'Pita',
-			'k_003jci7': 'Balon',
-			'k_003pyu1': 'Pisau',
-			'k_003q97d': 'Buruk',
-			'k_003po5d': 'Gerbong',
-			'k_03eadb2': 'Menguap',
-			'k_003pnuf': 'Tentara',
-			'k_003kg57': 'Kue',
-			'k_003mxkt': 'Sombong',
-			'k_003onu3': 'Bohlam',
-			'k_002uv8s': 'Layu',
-			'k_003kqy0': 'Nakal',
-			'k_003tyum': 'Berawan',
-			'k_003pv9u': 'Melamun',
-			'k_036o6mu': 'Gemetar',
-			'k_003nogx': 'Pesawat',
-			'k_003q7wg': 'Ciuman',
-			'k_003m0jd': 'Berjuang',
-			'k_002ult9': 'Kincir angin',
-			'k_003r8gt': 'Canggung',
-			'k_003qy4u': 'Godaan',
-			'k_003mnoa': 'Tepuk tangan',
-			'k_003lmw8': 'Malu',
-			'k_003mb30': 'Tertawa',
-			'k_03bj41g': 'Lentera merah',
-			'k_03dxw2f': 'Ganda merah',
-			'k_003mk57': 'Tertawa jahat',
-			'k_003nmvf': 'Melambai',
-			'k_003r2i7': 'Menoleh',
-			'k_002s6f3': 'Lapar',
-			'k_003qd0t': 'Bersemangat',
-			'k_002vgi4': 'Tarian jalanan',
-			'k_003nz33': 'Takut',
-			'k_002wh4p': 'Terkejut',
-			'k_003ozpu': 'Kopi',
-			'k_003qvs4': 'Sujud',
-			'k_003l3wb': 'Lucu',
-			'k_003nuwm': 'Kasihan',
-			'k_002rw1q': 'Mengorek hidung',
-			'k_002tujb': 'Tengkorak',
-			'k_00030eq': 'Keren',
-			'k_03i8ath': 'Hampir menangis',
-			'k_000421h': 'Mengantuk',
-			'k_003l5i7': 'Lilin',
-			'k_003j72g': 'Bola basket',
-			'k_003ofwl': 'Keringat dingin',
-			'k_02mw65v': 'Tas hadiah',
-			'k_003ku40': 'Hadiah',
-			'k_003ookz': 'Berkeringat',
-			'k_003on72': 'Menangis',
-			'k_003rjy0': 'Mahjong',
-			'k_003q2f8': 'Kucing',
-			'k_03et393': 'Cium',
-			'k_003j7j2': 'Mawar',
-			'k_002sr0b': 'Nasi',
-			'k_003nnza': 'Mie',
-			'k_003jef9': 'Botol susu',
-			'k_002umn0': 'Sedih',
-			'k_002rjib': 'Alarm',
-			'k_0003zcn': 'Marah',
-			'k_003jzwq': 'Kesal',
-			'k_003j4js': 'Bola',
-			'k_002r5ir': 'Bir',
-			'k_002ubu4': 'Kumbang',
-			'k_003ppo6': 'Cemberut',
-			'k_003ty3o': 'Ping pong',
-			'k_002vxwe': 'Mobil',
-			'k_00043hb': 'Kuat',
-			'k_003nmbo': 'Pukulan',
-			'k_002tfhq': 'Kodok',
-			'k_03i7lrn': 'Memalukan',
-			'k_003r03m': 'Tinju',
-			'k_00043h0': 'Lemah',
-			'k_000345z': 'Menggoda',
-			'k_003qmp9': 'Sofa',
-			'k_003it8a': 'Petir',
-			'k_003pxow': 'Kemenangan',
-			'k_003kw8e': 'Mengungkapkan cinta',
-			'k_003n99g': 'Pistol',
-			'k_00035cl': 'Sial',
-			'k_002vl3h': 'Tidur',
-			'k_002rgqk': 'Matahari',
-			'k_003m9d1': 'Lompat tali',
-			'k_002vobp': 'Melompat',
-			'k_003mkoz': 'Tertawa diam-diam',
-			'k_00041px': 'Muntah',
-			'k_003rjh5': 'Sedih',
-			'k_003j36u': 'Semangka',
-			'k_002re92': 'Hujan',
-			'k_00041py': 'Takut',
-			'k_003q06o': 'Ciuman',
-			'k_002ubjp': 'Pisang',
-			'k_003o2tr': 'Catur',
-			'k_03ie6pa': 'Patah hati',
-			'k_003rao5': 'Amplop',
-			'k_003l3us': 'Panda',
-			'k_000424d': 'Sst',
-			'k_00033yi': 'Obat',
-			'k_002qtyy': 'Tanda tanya',
-			'k_002qe0o': 'Licik',
-			'k_03gu7us': 'Kap mobil kanan',
-			'k_03ere8m': 'Hmm kanan',
-			'k_003uqk3': 'Payung',
-			'k_003tzdv': 'Bulan',
-			'k_0003z00': 'Pusing',
-			'k_002vdrd': 'Sampai jumpa',
-			'k_003ra1w': 'Bom',
-			'k_003lcad': 'Siksa',
-			'k_003q7sz': 'Tisu',
-			'k_002thn9': 'Makian',
-			'k_003qx7f': 'Kepala babi',
-			'k_003l044': 'Gila',
-			'k_003qg4h': 'Berputar',
-			'k_003kb97': 'Tertawa',
-			'k_03gu53l': 'Kap mobil kiri',
-			'k_03erd1f': 'Hmm kiri',
-			'k_003nyvl': 'Cinta',
-			'k_003r85z': 'Hati',
-			'k_003mk8j': 'Uang',
-			'k_003pwfj': 'Menangis',
-			'k_00042w5': 'Pisau',
-			'k_003nmtr': 'Jabat tangan',
-			'k_03c529p': 'Tai chi kanan',
-			'k_003n4mk': 'Cincin berlian',
-			'k_03c5488': 'Tai chi kiri',
-			'k_1llp7tu': 'Pengguna tidak ada',
-			'k_0tbyqyb': 'Memuat...',
-			'k_0td1p3f': 'Menyimpan...',
-			'k_1klqdh1': 'Hanya huruf Cina, huruf, angka dan garis bawah',
-			'k_03el5lp': 'Belum diisi',
-			'k_1ui0gai': 'Cari konten tertentu',
+			'k_0b9q00i': 'Gedung Tencent/////10000 Shennan Avenue, Distrik Nanshan, Shenzhen',
+			'k_03fw6h1': 'Shenzhen',
+			'k_0f7mdn7': 'Pencarian gagal',
+			'k_158cssa': 'Peta Tencent',
+			'k_157htdw': 'Peta Gaode',
+			'k_157im4z': 'Peta Baidu',
+			'k_157m20e': 'Peta Apple',
+			'k_1bqk7kl': 'Peta Gaode tidak terdeteksi',
+			'k_12ba1nv': 'Peta Tencent tidak terdeteksi',
+			'k_1dz8sci': 'Peta Baidu tidak terdeteksi',
+			'k_0f7fvky': 'Gagal membuka',
+			'k_1l2v0we': 'Di dalam Gedung Tencent, dekat Gedung R&D Info CMB, 18m jauhnya',
+			'k_10o8gk2': 'Cari lokasi',
+			'k_10o86v7': 'Lokasi tidak dikenal',
+			'k_0elt0kw': 'Tambahkan grup obrolan',
+			'k_03f15qk': 'Daftar hitam',
+			'k_0s3p3ji': 'Belum ada daftar hitam',
+			'k_0uc5cnb': 'Kami masih dalam beta, pembuatan saluran belum didukung.',
+			'k_0s5ey0o': 'Audio/video real-time TRTC',
+			'k_03gpl3d': 'Halo semuanya',
+			'k_0352fjr': 'Tidak ada koneksi jaringan, gagal bergabung dengan saluran',
+			'k_0d7n018': 'Akhiri topik',
+			'k_0d826hk': 'Sematkan topik',
+			'k_15wcgna': 'Berhasil diakhiri',
+			'k_15wo7xu': 'Berhasil disematkan',
+			'k_02slfpm': ({required Object errorMessage}) => 'Terjadi kesalahan $errorMessage',
+			'k_0h22snw': 'Panggilan suara',
+			'k_0h20hg5': 'Panggilan video',
+			'k_002s934': 'Topik',
+			'k_18g3zdo': 'Komunikasi Awan·IM',
+			'k_1m8vyp0': 'Kontak baru',
+			'k_0elz70e': 'Grup obrolan saya',
+			'k_18tb4mo': 'Tidak ada kontak',
+			'k_18nuh87': 'Hubungi kami',
+			'k_1uf134v': 'Umpan balik/saran dapat bergabung dengan grup QQ: 788910197',
+			'k_0xlhhrn': 'Jam online: Senin-Jumat, 10AM-8PM',
+			'k_0gmpgcg': 'Belum ada percakapan',
+			'k_1m8zuj4': 'Pilih kontak',
+			'k_002tu9r': 'Kinerja',
+			'k_0vwtop2': ({required Object getMsg}) => 'Pesan diterima:$getMsg',
+			'k_0upijvs': ({required Object message}) => 'Gagal mendapatkan daftar diskusi $message',
+			'k_1tmcw5c': 'Harap lengkapi judul topik',
+			'k_1cnmslk': 'Harap pilih setidaknya satu tag',
+			'k_0v5hlay': ({required Object message}) => 'Gagal membuat topik $message',
+			'k_0z3ytji': 'Topik berhasil dibuat',
+			'k_1a8vem3': 'Pengecualian pembuat',
+			'k_0eskkr1': 'Pilih area diskusi',
+			'k_0d7plb5': 'Buat topik',
+			'k_144t0ho': '---- Diskusi terkait ----',
+			'k_0pnz619': 'Masukkan judul topik',
+			'k_136v279': '+Tag (tambahkan setidaknya satu)',
+			'k_04hjhvp': 'Pengecualian parameter area diskusi',
+			'k_002r79h': 'Semua',
+			'k_03ejkb6': 'Telah bergabung',
+			'k_172tngw': 'Topik (tidak terhubung)',
+			'k_0rnmfc4': 'Belum ada topik di bawah diskusi ini',
+			'k_1pq0ybn': 'Belum bergabung dengan topik apa pun',
+			'k_0bh95w0': 'Tidak ada koneksi jaringan, gagal bergabung dengan topik',
+			'k_0em28sp': 'Belum ada grup obrolan',
+			'k_04dqh36': 'Belum ada kontak baru',
+			'k_08k00l9': 'Memuat...',
+			'k_197r4f7': 'Layanan IM terhubung dengan sukses',
+			'k_1s5xnir': 'Inisialisasi SDK IM gagal',
+			'k_0owk5ss': ({required Object failedReason}) => 'Login gagal $failedReason',
+			'k_15bxnkw': 'Koneksi jaringan terputus',
+			'k_0glj9us': 'Mulai percakapan',
+			'k_1631kyh': 'Buat grup kerja',
+			'k_1644yii': 'Buat grup sosial',
+			'k_1fxfx04': 'Buat grup rapat',
+			'k_1cnkqc9': 'Buat grup live',
+			'k_002r09z': 'Saluran',
 			'k_003nvk2': 'Pesan',
-			'k_03agld7': 'Pemberitahuan grup',
-			'k_0elt0kw': 'Tambahkan grup',
-			'k_0s3sgel': 'Hapus dari daftar hitam',
+			'k_1jwxwgt': 'Menghubungkan...',
+			'k_03gm52d': 'Kontak',
+			'k_003k7dc': 'Saya',
+			'k_14yh35u': 'Login·Pesan Instan',
+			'k_0st7i3e': 'Alami obrolan grup, panggilan audio/video dan fitur IM lainnya',
+			'k_0cr1atw': 'Tiongkok Daratan',
+			'k_0mnxjg7': 'Selamat datang di Tencent Cloud IM. Untuk melindungi keamanan informasi pribadi Anda, kami telah memperbarui Kebijakan Privasi, terutama meningkatkan detail informasi pengguna yang dikumpulkan dan menambahkan penggunaan SDK pihak ketiga.',
+			'k_1545beg': 'Silakan klik',
+			'k_0opnzp6': 'Perjanjian Pengguna',
+			'k_00041m1': 'dan',
+			'k_0orhtx0': 'Perjanjian Privasi',
+			'k_11x8pvm': 'dan baca dengan seksama. Jika Anda setuju, klik "Setuju dan Lanjutkan" untuk mulai menggunakan produk dan layanan kami!',
+			'k_17nw8gq': 'Setuju dan Lanjutkan',
+			'k_1nynslj': 'Tidak Setuju dan Keluar',
+			'k_0jsvmjm': 'Silakan masukkan nomor telepon',
+			'k_1lg8qh2': 'Format nomor telepon tidak valid',
+			'k_03jia4z': 'Tidak ada koneksi jaringan',
+			'k_007jqt2': 'Kode verifikasi berhasil dikirim',
+			'k_1a55aib': 'Pengecualian kode verifikasi',
+			'k_1mw45lz': ({required Object errorReason}) => 'Login gagal$errorReason',
+			'k_16r3sej': 'Negara/Wilayah',
+			'k_15hlgzr': 'Pilih kode negara Anda',
+			'k_1bnmt3h': 'Harap gunakan bahasa Inggris untuk pencarian',
+			'k_03fei8z': 'Nomor telepon',
+			'k_03aj66h': 'Kode verifikasi',
+			'k_1m9jtmw': 'Silakan masukkan kode verifikasi',
+			'k_0y1wbxk': 'Dapatkan kode verifikasi',
+			'k_002ri2g': 'Login',
+			'k_161ecly': 'Saat ini tidak ada jaringan',
+			'k_11uz2i8': 'Coba jaringan lagi',
+			'k_1vhzltr': 'Tencent Cloud Instant Messaging IM',
+			'k_0j433ys': 'Tencent Cloud TRTC',
+			'k_0epvs61': 'Ubah tema',
+			'k_12u8g8l': 'Pernyataan penafian',
+			'k_1p0j8i3': 'IM ("produk ini") adalah produk pengujian yang disediakan oleh Tencent Cloud. Tencent Cloud memiliki hak cipta dan kepemilikan. Produk ini hanya untuk pengalaman fungsional, bukan untuk penggunaan komersial apa pun. Untuk mematuhi persyaratan peraturan, semua interaksi audio/video direkam. Konten terlarang termasuk pornografi, pelecehan, kekerasan, terorisme, politik, dll.',
+			'k_0k7qoht': 'Izinkan siapa pun untuk menambahkan teman',
+			'k_1j91bvz': 'TUIKIT memilih avatar untuk Anda?',
+			'k_1wmkneq': 'Memerlukan verifikasi saat menambahkan saya sebagai teman',
+			'k_1eitsd0': 'Tentang Tencent Cloud·Komunikasi',
+			'k_1919d6m': 'Kebijakan Privasi',
+			'k_0wqhgor': 'Daftar Pengumpulan Informasi Pribadi',
+			'k_12rfxml': 'Daftar Berbagi Informasi Pihak Ketiga',
+			'k_131g7q4': 'Hapus akun',
+			'k_03fel2u': 'Versi',
+			'k_16kts8h': 'Logout',
+			'k_13spdki': 'Kirim pesan',
+			'k_14c600t': 'Edit catatan',
+			'k_1f811a4': 'Mendukung angka, huruf, garis bawah',
+			'k_11z7ml4': 'Detail',
+			'k_1ajt0b1': 'Gagal mendapatkan lokasi saat ini',
+			'k_0lhm9xq': 'Pencarian dimulai dengan sukses',
+			'k_0fdeled': 'Gagal memulai pencarian',
+			'k_1yh0a50': 'mapDidLoad-peta dimuat',
+			'k_1t2zg6h': 'Validasi kode verifikasi gambar gagal',
+			'k_03ibfd2': 'Minggu',
+			'k_1o7lf2y': ({required Object errorMessage}) => 'Kesalahan server: $errorMessage',
+			'k_118l7sq': ({required Object requestErrorMessage}) => 'Kesalahan permintaan: $requestErrorMessage',
+			'k_003nfx9': 'Dalam',
+			'k_003rvjp': 'Ringan',
+			'k_003rtht': 'Cerah',
+			'k_003qxiw': 'Mimpi',
+			'k_0s5zoi3': ({required Object option1}) => 'Terjadi kesalahan $option1',
+			'k_0i8egqa': ({required Object option8}) => 'Pesan diterima:$option8',
+			'k_0pokyns': ({required Object option8}) => 'Gagal mendapatkan daftar diskusi $option8',
+			'k_1y03m8a': ({required Object option8}) => 'Gagal membuat topik $option8',
+			'k_1v6uh9c': ({required Object option8}) => 'Login gagal $option8',
+			'k_0t5a9hl': ({required Object option1}) => 'Login gagal$option1',
+			'k_0k3uv02': ({required Object option8}) => 'Kesalahan server: $option8',
+			'k_1g9o3kz': ({required Object option8}) => 'Kesalahan permintaan: $option8',
+			'k_14cahuz': 'Tentang Tencent Cloud · IM',
+			'k_0llnalm': 'Versi SDK',
+			'k_13dyfii': 'Versi aplikasi',
+			'k_12h52zh': 'Kebijakan Privasi',
+			'k_0fxhhwb': 'Perjanjian Pengguna',
+			'k_18z2e6q': 'IM ("produk ini") adalah produk pengujian yang disediakan oleh Tencent Cloud. Tencent Cloud memiliki hak cipta dan kepemilikan. Produk ini hanya untuk pengalaman fungsional, bukan untuk penggunaan komersial apa pun. Konten terlarang termasuk pornografi, pelecehan, kekerasan, terorisme, politik, dll.',
+			'k_0zu7dd7': 'Daftar Pengumpulan Informasi',
+			'k_0mcqhgh': 'Daftar Berbagi Informasi',
+			'k_12eqaty': 'Konfirmasi penghapusan akun',
+			'k_0ziqsr6': 'Akun berhasil dihapus!',
+			'k_002qtgt': 'Hapus',
+			'k_0rvdu91': ({required Object option1}) => 'Setelah penghapusan, Anda tidak dapat menggunakan akun ini, data terkait akan dihapus dan tidak dapat dipulihkan. ID akun saat ini: $option1',
+			'k_15d22qk': 'Hapus akun',
+			'k_036uv3f': 'Tencent Cloud IM',
+			'k_167916k': 'Teman WeChat',
+			'k_03euwr1': 'Momen',
+			'k_0cxccci': 'Mengundang Anda untuk panggilan video',
+			'k_06lhh4b': 'Mengundang Anda untuk panggilan suara',
+			'k_1ywo9ut': 'Instant Messaging IM dikembangkan berdasarkan kemampuan IM dasar QQ. Cukup integrasikan SDK untuk dengan mudah mengimplementasikan obrolan, percakapan, grup, manajemen profil, dan komentar langsung. Juga mendukung integrasi pesan sinyal dengan produk lain seperti papan tulis, mencakup semua skenario bisnis, mendukung mini program di semua platform.',
+			'k_0ios26v': 'WeChat tidak terdeteksi',
+			'k_1jg6d5x': 'Ringkasan Kebijakan Privasi',
+			'k_0selni4': 'Kebijakan Privasi',
+			'k_10s6v2i': 'Daftar Pengumpulan Informasi',
+			'k_0pasxq8': 'Daftar Berbagi Informasi',
+			'k_003r6vf': 'Login',
+			'k_03f2zbs': 'Bagikan ke',
+			'k_0cfkcaz': 'Dorongan pesan',
+			'k_1rmkb2w': 'Dorong pesan obrolan baru',
+			'k_1lg375c': 'Pemberitahuan pesan baru',
+			'k_1t0akzp': ({required Object option1}) => 'Setelah penghapusan, Anda tidak dapat menggunakan akun ini, data terkait akan dihapus dan tidak dapat dipulihkan. ID akun saat ini: $option1',
+			'k_1699p6d': 'Gedung Tencent',
+			'k_1ngd60h': '10000 Shennan Avenue, Shenzhen',
+			'k_1na29vg': 'Pemeliharaan pesan lokasi',
+			'k_1xmms9t': 'Daftar permintaan bergabung grup',
+			'k_0dla4vp': 'Umpan balik/saran dapat bergabung dengan grup QQ',
+			'k_1odrjd1': 'Jam online: Senin-Jumat, 10AM-8PM',
+			'k_1bh903m': 'Nomor grup QQ disalin',
+			'k_16264lp': 'Salin nomor grup',
+			'k_18ger86': 'Tencent Cloud · IM',
+			'k_1vd70l1': 'Teknologi pesan instan yang melayani ratusan juta pengguna QQ',
+			'k_036phup': 'Tencent Cloud IM',
+			'k_0gfsln9': 'Informasi berubah',
+			'k_0ow4akh': 'Harap ikuti README Demo untuk mengkonfigurasi Baidu AK dan mengalami fitur pesan lokasi',
+			'k_1kzh3lo': 'Harap ikuti dokumentasi ini https://docs.qq.com/doc/DSVliWE9acURta2dL untuk mengalami fitur pesan lokasi dengan cepat',
+			'k_161zzkm': 'Harap masukkan nama pengguna',
+			'k_1veosyv': 'Harap tulis kunci dalam variabel lingkungan',
+			'k_03exdnb': 'Nama pengguna',
+			'k_16kquu8': 'Direktori saat ini',
+			'k_0fbvuqs': 'Mulai menyalin',
+			'k_16j153h': 'Aplikasi Tencent Cloud IM ("produk ini") adalah produk pengujian yang disediakan oleh Tencent Cloud. Tencent Cloud memiliki hak cipta dan kepemilikan. Produk ini hanya untuk pengalaman fungsional, bukan untuk penggunaan komersial apa pun. Konten terlarang termasuk pornografi, pelecehan, kekerasan, terorisme, politik, dll.',
+			'k_13ghyf8': '[Pemberitahuan Keamanan] Aplikasi ini hanya untuk mengalami fitur Tencent Cloud IM, bukan untuk negosiasi bisnis. Jangan percaya informasi terkait uang seperti transfer/hadiah, atau menelepon nomor asing untuk mencegah penipuan.',
+			'k_0gt6cro': 'Klik untuk melaporkan',
+			'k_03595fk': ({required Object option1}) => ' dll. $option1 orang',
+			'k_1gpzgni': ({required Object option2}) => 'Grup $option2 orang',
+			'k_02lfg57': 'Obrolan grup baru',
+			'k_17ifd8i': 'Selamat datang menggunakan aplikasi ini untuk mengalami layanan Tencent Cloud IM',
+			'k_1f0ms23': 'Status baca pesan',
+			'k_1c0x9ha': 'Ketika dinonaktifkan, pesan yang Anda kirim/terima tidak akan menunjukkan status baca. Anda tidak akan melihat apakah orang lain membaca pesan Anda, juga orang lain tidak dapat melihat apakah Anda membaca pesan mereka.',
+			'k_1dzhdr5': 'Tampilkan status online',
+			'k_0mwsniq': 'Ketika dinonaktifkan, Anda tidak akan melihat status online/tidak online teman dalam daftar percakapan dan kontak.',
+			'k_0f7h6ay': 'Koneksi gagal',
+			'k_0wreawq': 'Plugin Baidu Map tidak didukung di versi web, harap gunakan DEMO Aplikasi Mobile untuk mengalami fitur pesan lokasi.',
+			'k_03c56co': 'Jangan pilih',
+			'k_1klqdh1': 'Hanya karakter Tionghoa, Inggris, angka dan garis bawah',
+			'k_03el5lp': 'Belum diisi',
+			'k_0554lam': 'Grup Teman Kerja (Work)',
+			'k_1hyz1ua': 'Grup Sosial Publik (Public)',
+			'k_1s8hjin': 'Grup Rapat Sementara (Meeting)',
+			'k_16ejs8f': 'Grup Live (AVChatRoom)',
+			'k_1rqdzbh': 'Komunitas (Community)',
+			'k_1aue1b6': 'Seperti grup WeChat. Setelah dibuat, hanya anggota yang ada dapat mengundang orang lain, tidak perlu persetujuan.',
+			'k_0uldek7': 'Seperti grup QQ. Setelah dibuat, pemilik dapat menetapkan admin. Pengguna perlu persetujuan pemilik/admin untuk bergabung setelah mencari ID grup.',
+			'k_1nv4w25': 'Bebas bergabung/keluar, dapat melihat pesan sebelum bergabung. Cocok untuk rapat audio/video, pendidikan online dll. ketika dikombinasikan dengan produk audio/video real-time.',
+			'k_1wbmoof': 'Bebas bergabung/keluar, tidak ada batas anggota, tetapi tidak ada riwayat pesan. Cocok untuk siaran langsung dengan komentar obrolan.',
+			'k_11mlyaa': 'Bebas bergabung/keluar, mendukung hingga 100k anggota dengan riwayat pesan. Pengguna dapat bergabung segera setelah mencari ID grup, tidak perlu persetujuan.',
+			'k_0ylgdrb': 'DEMO Komunitas sedang dikembangkan, segera hadir',
+			'k_0elsjm2': 'Buat grup obrolan',
+			'k_1iw4gdk': 'Izinkan siapa pun',
+			'k_0i5ffqf': 'Memerlukan verifikasi',
+			'k_111mgqj': 'Larang menambahkan saya sebagai teman',
+			'k_03go2lu': 'Tidak ditentukan',
+			'k_15zb99m': 'Cara menambahkan saya sebagai teman',
+			'k_1llp7tu': 'Pengguna tidak ada',
+			'k_0tbyqyb': 'Memuat…',
+			'k_0td1p3f': 'Menyimpan…',
+			'k_1ui0gai': 'Cari konten tertentu',
+			'k_03agld7': 'Notifikasi grup',
+			'k_002wkr3': 'Terjemahkan',
+			'k_13g4hxv': 'Terjemahan selesai',
+			'k_003mmoz': 'Roket',
+			'k_003nogx': 'Pesawat',
+			'k_003pjj6': 'Mahkota',
+			'k_000340k': 'Bunga',
+			'k_0cv8ngo': ({required Object option1}) => 'Mengirim $option1',
+			'k_03a2zjl': 'Kirim hadiah',
+			'k_0003yq8': '',
+			'k_13k5228': 'Menyukai siaran langsung',
+			'k_1k0rrvn': 'Katakan sesuatu...',
+			'k_13jzi5y': 'Masuk siaran langsung',
+			'k_14asoqo': 'Berhenti mengikuti',
+			'k_003ohwe': 'Ikuti',
+			'k_1h33pzv': ({required Object option1}) => 'Pengikut $option1 |',
+			'k_07skbgr': ({required Object option2}) => ' Mengikuti $option2',
+			'k_1c99nb3': ({required Object option1}) => '$option1 10k+',
+			'k_19mfrrb': 'Penonton online',
+			'k_13m65um': 'Info penonton',
+			'k_19kj6te': ({required Object option1}) => '$option1 suka sesi ini',
 			'k_1qqgjra': ({required Object option3}) => '$option3 pesan belum dibaca',
 			'k_0uubyjr': 'Berikut adalah pesan yang belum dibaca',
+			'k_0kg1wsx': 'Pilih jenis grup',
+			'k_003m6xh': 'Pengaturan',
+			'k_18nszwl': 'Tentang kami',
+			'k_003txiw': 'Tentang',
+			'k_12fp4oc': 'Situs web resmi',
+			'k_1391sy5': 'Kembangkan sekali, terapkan ke semua platform, beradaptasi dengan layar lebar/sempit',
+			'k_002vu95': 'Selamat datang',
+			'k_0o6nt4d': 'Saya telah membaca dan menyetujui ',
+			'k_12l2415': 'Perjanjian dan peraturan Tencent Cloud IM',
+			'k_0rcqou9': 'Hak Cipta © 2013-2023 Tencent Cloud. Seluruh Hak Dilindungi. Tencent Cloud',
+			'k_003lmhx': 'Grup',
+			'k_1s251fa': 'Kontak & Grup',
+			'k_0cjp3hx': 'Silakan pilih kontak atau grup untuk melihat detail',
+			'k_12veoax': 'Pengalihan saluran:',
+			'k_002rfh9': 'Internasional',
+			'k_0864lq3': 'Jika Anda memiliki pertanyaan selama penggunaan, silakan hubungi kami melalui:',
+			'k_12625cy': 'Bergabung dengan grup sekarang',
+			'k_131lvxd': 'Akun saya',
+			'k_002qep7': 'Antarmuka',
+			'k_002vbyp': 'Tampilan',
+			'k_16owrwc': 'Mode terang',
+			'k_01zair9': 'Mode gelap (dalam pengembangan)',
+			'k_002skx2': 'Tema',
+			'k_002wzvs': 'Bahasa',
+			'k_002woft': 'Inggris',
+			'k_129eldp': 'Tionghoa Tradisional',
+			'k_129ekqk': 'Tionghoa Sederhana',
+			'k_002whil': 'Jepang',
+			'k_002wqld': 'Korea',
+			'k_003is6v': 'Umum',
+			'k_12s2mfc': 'Lihat detail',
+			'k_12fsjye': 'Situs web terkait',
+			'k_16uejmj': 'Pusat pribadi',
+			'k_0dtyory': 'Umpan balik',
+			'k_03oy6z4': 'Semua SDK',
+			'k_03bh54n': 'Kode sumber',
+			'k_0s3sgel': 'Hapus dari daftar hitam',
 			'k_16as7eq': 'Reaksi emoji',
 			'k_003s12u': 'Balas',
 			'k_003s38r': 'Lainnya',
-			'k_002wkr3': 'Terjemahkan',
-			'k_13g4hxv': 'Terjemahan selesai',
 			'k_003molk': 'Emoji',
 			'k_165bbw6': 'Riwayat pesan',
 			'k_13sqc0z': 'Bersihkan pesan',
 			'k_0glns86': 'Hapus percakapan',
-			'k_13s99rx': 'Kosongkan pesan',
-			'k_11vsa3j': 'Keluar dari grup',
+			'k_13s99rx': 'Bersihkan semua pesan',
+			'k_11vsa3j': 'Keluar grup',
 			'k_11vvszp': 'Bubarkan grup',
 			'k_15i9w72': 'Admin grup',
 			'k_0p3espj': 'Atur nama catatan',
 			'k_118sw9v': 'Cari sekarang',
-			'k_0h20hg5': 'Panggilan video',
-			'k_0h22snw': 'Panggilan suara',
-			'k_003lz6t': 'Lawan',
+			'k_1xn4cn2': 'Pemeriksaan lingkungan runtime',
+			'k_0sy25ey': 'Harap instal runtime Microsoft Edge WebView2 untuk menggunakan program ini.',
+			'k_0g4tlsb': 'Unduh sekarang',
+			'k_13ozr8k': 'Belum didukung',
+			'k_16yiku8': 'Pencarian lokal tidak didukung di web, harap gunakan Aplikasi Mobile atau versi Desktop',
+			'k_003lz6t': 'Pihak lain',
 			'k_1xf4yre': ({required Object option1}) => 'Kirim ke $option1',
-			'k_003por5': 'Screenshot',
-			'k_1rw7s82': ' Izin akses video di album, untuk menggunakan fitur mengirim video, dll.',
+			'k_003por5': 'Tangkapan layar',
+			'k_0c67rdb': 'Izinkan pilihan ganda',
+			'k_11lav8q': 'Pemungutan suara anonim',
+			'k_137cjfq': 'Hasil publik',
+			'k_0e3jces': 'Silakan masukkan opsi',
+			'k_0dcbhiz': 'Tambahkan opsi',
+			'k_003r4qf': 'Publikasikan',
+			'k_1xa5q8q': 'Silakan masukkan topik pemungutan suara',
+			'k_003nv7m': 'Telah memilih',
+			'k_002ym5d': 'suara,',
+			'k_003pfxt': 'Persentase',
+			'k_0fxdch1': 'Plugin pemungutan suara belum diinisialisasi, harap inisialisasi terlebih dahulu',
+			'k_1lzoopr': 'Bukan pesan pemungutan suara, harap periksa',
+			'k_03ahybu': 'Sudah memilih',
+			'k_11lamu8': 'Pilih sekarang',
+			'k_0b9h7nq': 'Pemungutan suara berakhir',
+			'k_0c7zem1': 'Kirim ulang',
+			'k_11l1qvo': 'Akhiri pemungutan suara',
+			'k_0z314c0': '[Pilihan ganda]',
+			'k_0z2zcm7': '[Pilihan tunggal]',
+			'k_0y8ap8v': '[Publik]',
+			'k_0y4cs5n': '[Privat]',
+			'k_0y6agtt': '[Anonim]',
+			'k_0y68wmo': '[Nama asli]',
+			'k_1pssgjf': ({required Object option1}) => 'Peserta yang diharapkan: $option1',
+			'k_0x9zkqf': ({required Object option2}) => 'Peserta aktual: $option2',
+			'k_09ikyqj': 'Lihat semua opsi',
+			'k_0h2jp2z': ({required Object option1}) => '$option1 suara',
+			'k_0y2zr3y': '[Pemungutan suara]',
+			'k_11lci1l': 'Buat pemungutan suara',
+			'k_003l988': 'Pemungutan suara',
+			'k_1rw7s82': ' Izin akses video album untuk menggunakan pengiriman video dll.',
 			'k_003rcwm': 'Buka',
 			'k_1698c42': 'Buka di Finder',
 			'k_066fxsz': 'Lihat folder',
 			'k_0k432y2': 'Tidak dapat mengirim, berisi folder',
 			'k_002wb4y': 'Percakapan',
-			'k_0od4qyh': 'File video tidak normal',
-			'k_1bfkxg9': 'Tidak mendukung pengiriman file 0KB',
-			'k_0vvsw7g': 'File tidak normal',
+			'k_0od4qyh': 'Pengecualian file video',
+			'k_1cdzld5': 'Silakan masukkan info produk',
+			'k_19qt9y2': 'Penilaian layanan',
+			'k_13s7ltw': 'Pesan kartu',
+			'k_13ajr25': 'Dukungan online',
+			'k_0ti5mfz': 'Belum ada dukungan online',
+			'k_1bfkxg9': 'Transfer file 0KB tidak didukung',
+			'k_0vvsw7g': 'Pengecualian pemrosesan file',
 			'k_06e224q': '[Pesan ditarik oleh admin]',
 			'k_1u1mjcl': '[Pesan ditarik]',
 			'k_1qcqxea': 'Pilih beberapa percakapan',
 			'k_1qgmc20': 'Pilih satu percakapan',
 			'k_1d8nx6f': 'Buka di jendela baru',
-			'k_1hz05ax': 'Sedang mengunduh sumber asli, harap tunggu...',
+			'k_1hz05ax': 'Mengunduh sumber daya asli, harap tunggu...',
+			'k_1fszgep': 'Selamat datang di komunitas Zhiliao untuk berdiskusi',
+			'k_1xtvvs9': 'Komunitas ini menggunakan Flutter UIKit yang sama untuk pengembangan semua platform seperti Aplikasi ini',
+			'k_0cdljc3': 'Pergi ke komunitas Zhiliao',
+			'k_167dvo3': 'Pilih teman',
+			'k_1u1jwb8': 'zhiliao.qq.com',
+			'k_003lyik': 'Siaran langsung',
+			'k_1vwbpp2': 'Host belum mulai siaran',
+			'k_1l1p7uv': 'Peringkat 162 dalam bagan per jam',
+			'k_0p7ezww': 'Selamat datang di siaran langsung! Dilarang untuk anak di bawah umur melakukan siaran langsung, memberi tip atau penjualan minuman beralkohol kepada anak di bawah umur. Jika host menjual minuman beralkohol, anak di bawah umur harus menonton dengan pendamping. Konten terlarang termasuk aktivitas ilegal, pornografi, merokok/minum, bahaya, dll. Waspadalah terhadap penipuan jika host menginduksi tip/transaksi pribadi. Gunakan keranjang belanja di bawah, hindari kesepakatan pribadi. Lindungi properti Anda dari penipuan.',
+			'k_0zw0eau': 'Hidup berbadai',
+			'k_132m79q': 'Panggilan berakhir',
 			'k_002robo': 'Bersihkan',
 		};
 	}
